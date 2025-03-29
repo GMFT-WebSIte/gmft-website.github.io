@@ -1,0 +1,2 @@
+HTTPServer\miniweb.EXE -r %cd% -p 80 -l HTTPServer\log
+	

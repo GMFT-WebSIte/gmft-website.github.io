@@ -1,0 +1,8 @@
+﻿{"data": [
+["01 - FINALE", "FINALE : M01", "Celtic Combourg CFT (com)", "1", "-", "2", "CFT Puylaurens (puy)", "", "3", "-", "6", "Subbuteo Côte d'Azur (azu)"],
+["01 - FINALE", "FINALE : M01", "Paul Offmann (com)", "0", "-", "2", "Roger Trouillard (puy)", " ", " ", " ", " ", " "],
+["01 - FINALE", "FINALE : M01", "Fanch Coquillon (com)", "1", "-", "1", "Kévin Pouffet (puy)", " ", " ", " ", " ", " "],
+["01 - FINALE", "FINALE : M01", "Skander Farza (com)", "2", "-", "0", "Olivier Bastin (puy)", " ", " ", " ", " ", " "],
+["01 - FINALE", "FINALE : M01", "Yann Loarec (com)", "0", "-", "3", "Serge Leroy (puy)", " ", " ", " ", " ", " "],
+["01 - FINALE", "FINALE : M01", "Thomas Ponté (com)", "S1", " ", "", "", " ", " ", " ", " ", " "]
+]}

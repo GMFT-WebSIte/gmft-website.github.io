@@ -1,0 +1,10 @@
+﻿{"data": [
+["Poule 01", "1", "Christophe MONTEIRO (iss)", "FRA0164", "FTC Issy-les-Moulineaux"],
+["Poule 01", "2", "Christophe FUSEAU (com)", "FRA0106", "Celtic Combourg CFT"],
+["Poule 01", "3", "Skander FARZA (com)", "TUN0001", "Celtic Combourg CFT"],
+["Poule 01", "4", "Rémy LOURS (cae)", "FRA0109", "FTC Caen"],
+["Poule 01", "5", "Olivier SAGIT (cae)", "FRA0060", "FTC Caen"],
+["Poule 01", "6", "Ludovic MIDOUX (hen)", "FRA0092", "Avenir Subbuteo Hennuyer"],
+["Poule 01", "7", "Rafaël MIDOUX (hen)", "FRA0168", "Avenir Subbuteo Hennuyer"],
+["Poule 01", "8", "Lionel ABECASSIS ()", "FRA0325", "Free Agent"]
+]}

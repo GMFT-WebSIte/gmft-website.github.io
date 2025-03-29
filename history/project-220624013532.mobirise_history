@@ -1,0 +1,95 @@
+{
+  "settings": {
+    "name": "Championnats de FRance de Football de Table",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#075000"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.1",
+    "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/logoffftrondseul.gif",
+    "noImageResize": null,
+    "google-analytics": "",
+    "siteUrl": "undefined",
+    "uniqCompNum": 1,
+    "versionPublish": "4.12.0",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "imageResize": true
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Championnats de France de Football de Table",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/logo-major-small-128x128.png"
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_tags": [
+            "Thème"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-size": "32px",
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "H1": {
+              "font-size": "48px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "header1-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc05059-2000x1331.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#475577",
+            "overlayOpacity": "0.8"
+          },
+          "title": "3FTS<br>Fédération Française de Football de Table<br><br>",
+          "text": "Championnats de France",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"2022/index.html\" data-toolbar=\"-mbrBtnMove\">2022</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-info\" href=\"2019/index.html\" data-toolbar=\"-mbrBtnMove\">2019</a>   "
+        }
+      ]
+    }
+  }
+}

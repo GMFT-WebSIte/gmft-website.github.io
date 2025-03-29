@@ -1,0 +1,18 @@
+﻿{"data": [
+["","Thierry Vivron (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Jean-Marie Amberny (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Axel Donval ()", "9999", "FRA", "-"],
+["","Emmanuel Gorgette (plo)", "9999", "FRA", "SC Palermo 2016"],
+["","Raphaël Pommier (cae)", "9999", "FRA", "FTC Caen"],
+["","Audrey Herbaut (chp)", "9999", "FRA", "Elan SC Champs"],
+["","Serge Leroy (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Jean-François Balard (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Paul Naszalyi (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Christophe Monteiro (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Rémi Soret (hen)", "9999", "FRA", "Avenir Subbuteo Hennuyer"],
+["","Irène Rivière (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Axel Modeste (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Ludovic Midoux (hen)", "9999", "FRA", "Avenir Subbuteo Hennuyer"],
+["","Xavier Dubois (cae)", "9999", "FRA", "FTC Caen"],
+["","Théo Modeste (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"]
+]}

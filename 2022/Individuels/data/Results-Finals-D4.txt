@@ -1,0 +1,5 @@
+﻿{"data": [
+["1/2 FINALES", "Enrico Lupo (can)", "3", "-", "2", "Liam Lupo (can)", "", "", "-", ""],
+["1/2 FINALES", "Orlan Martin (sym)", "2", "-", "0", "Frédéric Bondi (can)", "", "", "-", ""],
+["FINALE", "Enrico Lupo (can)", "4", "-", "0", "Orlan Martin (sym)", "", "", "-", ""]
+]}

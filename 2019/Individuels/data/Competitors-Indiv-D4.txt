@@ -1,0 +1,17 @@
+﻿{"data": [
+["","David Durand (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Jérome Deffolin (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Cédric Pandolfi (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Hervé Fino (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Cyril Bolusset (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Christophe Fuseau (com)", "9999", "FRA", "Celtic Combourg CFT"],
+["","Serge Leroy (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Laurent Meygret (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Stéphane Pommier (cae)", "9999", "FRA", "FTC Caen"],
+["","Jean-François Balard (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Romain Gadais (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Olivier Bastin (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Ludovic Beauvais (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Alexandre Marc (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Cyril Ollivier ()", "9999", "FRA", "Individuel"]
+]}

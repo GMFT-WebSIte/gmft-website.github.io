@@ -1,0 +1,10 @@
+﻿{"data": [
+["Poule 01", "1", "Thomas PONTÉ (com)", "UKR0001", "Celtic Combourg CFT"],
+["Poule 01", "2", "Alban BOIGEOL (aqu)", "FRA0268", "Football de Table Aquitaine"],
+["Poule 01", "3", "Aymeric POUFFET (aqu)", "FRA0222", "Football de Table Aquitaine"],
+["Poule 01", "4", "Kévin POUFFET (puy)", "FRA0218", "CFT Puylaurens"],
+["Poule 01", "5", "Olivier BASTIN (puy)", "FRA0069", "CFT Puylaurens"],
+["Poule 01", "6", "Ludovic BEAUVAIS (cca)", "FRA0134", "Subbuteo Le Cannet Côte d'Azur"],
+["Poule 01", "7", "Jean-Jacques TRICHOT (css)", "FRA0229", "Club Stéphanois Subbuteo - ALC"],
+["Poule 01", "8", "Nicolas MORIER (aqu)", "FRA0221", "Football de Table Aquitaine"]
+]}

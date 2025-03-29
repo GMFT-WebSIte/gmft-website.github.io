@@ -1,0 +1,6 @@
+﻿{"data": [
+["Poule 01", "1", "FTC Issy-les-Moulineaux (iss)"],
+["Poule 01", "2", "FTC Caen (cae)"],
+["Poule 01", "3", "Elan SC Champs (chp)"],
+["Poule 01", "4", "FTC Issy-les-Moulineaux 2 (iss)"]
+]}

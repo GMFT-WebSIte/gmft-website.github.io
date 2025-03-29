@@ -1,0 +1,10 @@
+﻿{"data": [
+["Poule 01", "1", "Rémi SORET (hen)", "FRA0093", "Avenir Subbuteo Hennuyer"],
+["Poule 01", "2", "Roger TROUILLARD (puy)", "FRA0011", "CFT Puylaurens"],
+["Poule 01", "3", "Xavier DUBOIS (cae)", "FRA0122", "FTC Caen"],
+["Poule 01", "4", "Franck DUBREUIL (chp)", "FRA0170", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "5", "Thibault LESNE (aqu)", "FRA0232", "Football de Table Aquitaine"],
+["Poule 01", "6", "Hervé RAKOWSKI (als)", "FRA0095", "Guebwiller Alsace Subbuteo Club"],
+["Poule 01", "7", "Johnny LEDIEU (chp)", "FRA0038", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "8", "Didier LE DE (aqu)", "FRA0219", "Football de Table Aquitaine"]
+]}

@@ -1,0 +1,3 @@
+﻿{"data": [
+["FINALE", "FTC Issy-les-Moulineaux (iss)", "", "-", "", "FTC Caen (cae)", "", "", "-", ""]
+]}

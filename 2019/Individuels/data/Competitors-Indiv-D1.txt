@@ -1,0 +1,10 @@
+﻿{"data": [
+["","Rémy Lours (cae)", "9999", "FRA", "FTC Caen"],
+["","Thierry Vivron (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Axel Donval (vll)", "9999", "FRA", "Valletta SC"],
+["","Emmanuel Gorgette (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Audrey Herbaut (chp)", "9999", "FRA", "Elan SC Champs"],
+["","Raphaël Pommier (cae)", "9999", "FRA", "FTC Caen"],
+["","Paul Naszalyi (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Mickaël Blanc (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"]
+]}

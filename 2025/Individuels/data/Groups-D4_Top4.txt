@@ -1,0 +1,6 @@
+﻿{"data": [
+["Poule 01", "1", "Stephane GALICHET ()", "FRA0329", "Free Agent"],
+["Poule 01", "2", "Sébastien LECERF (mon)", "FRA0297", "CFT Montivilliers"],
+["Poule 01", "3", "David SARDI DE LETTO (lil)", "FRA0277", "ALC Wattrelos - Subbuteo Lille Metropole"],
+["Poule 01", "4", "Lea POUPART (com)", "FRA0246", "Celtic Combourg CFT"]
+]}

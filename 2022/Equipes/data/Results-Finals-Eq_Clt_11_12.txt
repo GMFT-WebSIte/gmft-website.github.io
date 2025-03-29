@@ -1,0 +1,3 @@
+﻿{"data": [
+["FINALE", "FTC ST Symphorien sur Coise 2 (sym)", "", "-", "", "Subbuteo Côte d'Azur (azu)", "", "", "-", ""]
+]}

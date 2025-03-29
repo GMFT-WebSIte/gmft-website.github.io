@@ -1,0 +1,8 @@
+﻿{"data": [
+["Poule 01", "1", "FTC Issy-les-Moulineaux (iss)"],
+["Poule 01", "2", "FTC Caen (cae)"],
+["Poule 01", "3", "Celtic Combourg CFT (com)"],
+["Poule 01", "4", "FTC ST Symphorien sur Coise (sym)"],
+["Poule 01", "5", "Elan SC Champs (chp)"],
+["Poule 01", "6", "CFT Puylaurens (puy)"]
+]}

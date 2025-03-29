@@ -1,0 +1,18 @@
+﻿{"data": [
+["Poule 01", "1", "Lorenzo LO PRETI (als)", "0756 (Open) ", "Guebwiller Alsace Subbuteo Club"],
+["Poule 01", "2", "Christophe MONTEIRO (iss)", "0131 (Open) 0192 (Vet) ", "FTC Issy-les-Moulineaux"],
+["Poule 01", "3", "Laurent AUSSET (chp)", "1098 (Open) 0232 (Vet) ", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "4", "Fayçal ROUIS (cae)", "0080 (Open) ", "FTC Caen"],
+["Poule 01", "5", "Rafaël MIDOUX (hen)", "0408 (Open) 0015 (U20) ", "Avenir Subbuteo Hennuyer"],
+["Poule 01", "6", "Olivier SAGIT (cae)", "0639 (Open) ", "FTC Caen"],
+["Poule 01", "7", "Jean-Marie FOUETILLOU (cae)", "0146 (Vet) ", "FTC Caen"],
+["Poule 01", "8", "Skander FARZA (com)", "0684 (Open) 0125 (Vet) ", "Celtic Combourg CFT"],
+["Poule 02", "1", "Lionel ABECASSIS ()", "0379 (Open) ", "Free Agent"],
+["Poule 02", "2", "Louis SORET (hen)", "0449 (Open) 0024 (U20) 0001 (U16) ", "Avenir Subbuteo Hennuyer"],
+["Poule 02", "3", "Ludovic MIDOUX (hen)", "0170 (Open) ", "Avenir Subbuteo Hennuyer"],
+["Poule 02", "4", "Rémy LOURS (cae)", "0088 (Open) ", "FTC Caen"],
+["Poule 02", "5", "Abdelmaneum ROUIS (cae)", "0310 (Open) ", "FTC Caen"],
+["Poule 02", "6", "Nicolas LEFÈBVRE (cae)", "0564 (Open) ", "FTC Caen"],
+["Poule 02", "7", "Christophe FUSEAU (com)", "0287 (Vet) ", "Celtic Combourg CFT"],
+["Poule 02", "8", "Yann LOAREC (com)", "0828 (Open) 0216 (Vet) ", "Celtic Combourg CFT"]
+]}

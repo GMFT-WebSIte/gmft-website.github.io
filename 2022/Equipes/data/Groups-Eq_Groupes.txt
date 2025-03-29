@@ -1,0 +1,14 @@
+﻿{"data": [
+["Poule 01", "1", "FTC Issy-les-Moulineaux (iss)"],
+["Poule 01", "2", "Subbuteo Le Cannet (can)"],
+["Poule 01", "3", "Subbuteo Lille Metropole (lih)"],
+["Poule 01", "4", "Elan SC Champs (chp)"],
+["Poule 01", "5", "Celtic Combourg CFT (com)"],
+["Poule 01", "6", "FTC ST Symphorien sur Coise 2 (sym)"],
+["Poule 02", "1", "FTC Caen (cae)"],
+["Poule 02", "2", "FTC Issy-les-Moulineaux 2 (iss)"],
+["Poule 02", "3", "FTC ST Symphorien sur Coise (sym)"],
+["Poule 02", "4", "Subbuteo Côte d'Azur (azu)"],
+["Poule 02", "5", "CFT Puylaurens (puy)"],
+["Poule 02", "6", "FDT Aquitaine - Prignac et Marcamps (aqu)"]
+]}

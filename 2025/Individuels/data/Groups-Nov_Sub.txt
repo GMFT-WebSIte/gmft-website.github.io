@@ -1,0 +1,16 @@
+﻿{"data": [
+["Poule 01", "1", "Martial FOCHTERLE (als)", "No Ranked", "Guebwiller Alsace Subbuteo Club"],
+["Poule 01", "2", "Giovanni CHIAPPETTA (puc)", "0508 (Open) ", "Paris Université Club"],
+["Poule 01", "3", "Gabriel CHIAPPETTA (puc)", "0828 (Open) 0005 (U12) ", "Paris Université Club"],
+["Poule 01", "4", "Thibault MARVILLE (lil)", "No Ranked", "ALC Wattrelos - Subbuteo Lille Metropole"],
+["Poule 01", "5", "Jean-Marc REORTHE (com)", "No Ranked", "Celtic Combourg CFT"],
+["Poule 01", "6", "Jean-Maurice NOËL (css)", "0798 (Open) 0376 (Vet) ", "Club Stéphanois Subbuteo - ALC"],
+["Poule 01", "7", "Eric DUJARDIN (duc)", "1098 (Open) ", "Les Ducs Chalon-sur-Saône FTSC"],
+["Poule 01", "8", "Vincent VANDAMME (chp)", "0353 (Vet) ", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "9", "Jérémy IDOUX (lor)", "1098 (Open) ", "RC Lorraine Subbuteo Club"],
+["Poule 01", "10", "Jean-Michel HLUPIC (lor)", "1098 (Open) ", "RC Lorraine Subbuteo Club"],
+["Poule 01", "11", "Françis LAURENT (lor)", "No Ranked", "RC Lorraine Subbuteo Club"],
+["Poule 01", "12", "Augustin LEDOIT (puc)", "1098 (Open) 0004 (U12) ", "Paris Université Club"],
+["Poule 01", "13", "Emeline LECERF (mon)", "No Ranked", "CFT Montivilliers"],
+["Poule 01", "14", "Jean-Michel CORDIER (lil)", "No Ranked", "ALC Wattrelos - Subbuteo Lille Metropole"]
+]}

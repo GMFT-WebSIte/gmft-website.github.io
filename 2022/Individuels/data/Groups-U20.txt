@@ -1,0 +1,8 @@
+﻿{"data": [
+["Poule 01", "1", "Cyprien Bonnet (sym)", "FRA0189", "FTC ST Symphorien sur Coise"],
+["Poule 01", "2", "Noé Bolusset (sym)", "FRA0181", "FTC ST Symphorien sur Coise"],
+["Poule 01", "3", "Fanch Coquillon (com)", "FRA0178", "Celtic Combourg CFT"],
+["Poule 01", "4", "Lorenzo LoPetri (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 01", "5", "Quentin Ausset (chp)", "9999", "Elan SC Champs"],
+["Poule 01", "6", "Thibaud Gauthier (sym)", "9999", "FTC ST Symphorien sur Coise"]
+]}

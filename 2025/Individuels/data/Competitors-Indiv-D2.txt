@@ -1,0 +1,18 @@
+﻿{"data": [
+["","Rémi SORET (hen)", "0023 (Open) ", "FRA", "Avenir Subbuteo Hennuyer"],
+["","Thomas PONTÉ (com)", "0286 (Open) ", "UKR", "Celtic Combourg CFT"],
+["","Olivier BASTIN (puy)", "0588 (Open) ", "FRA", "CFT Puylaurens"],
+["","Roger TROUILLARD (puy)", "No Ranked", "FRA", "CFT Puylaurens"],
+["","Kévin POUFFET (puy)", "0484 (Open) ", "FRA", "CFT Puylaurens"],
+["","Jean-Jacques TRICHOT (css)", "0668 (Open) 0170 (Vet) ", "FRA", "Club Stéphanois Subbuteo - ALC"],
+["","Johnny LEDIEU (chp)", "0668 (Open) ", "FRA", "Elan Subbutéo Club de Champs-sur-Marne"],
+["","Franck DUBREUIL (chp)", "0232 (Open) ", "FRA", "Elan Subbutéo Club de Champs-sur-Marne"],
+["","Aymeric POUFFET (aqu)", "0643 (Open) ", "FRA", "Football de Table Aquitaine"],
+["","Alban BOIGEOL (aqu)", "0756 (Open) 0287 (Vet) ", "FRA", "Football de Table Aquitaine"],
+["","Thibault LESNE (aqu)", "0359 (Open) ", "FRA", "Football de Table Aquitaine"],
+["","Nicolas MORIER (aqu)", "0613 (Open) ", "FRA", "Football de Table Aquitaine"],
+["","Didier LE DE (aqu)", "No Ranked", "FRA", "Football de Table Aquitaine"],
+["","Xavier DUBOIS (cae)", "0362 (Open) 0054 (Vet) ", "FRA", "FTC Caen"],
+["","Hervé RAKOWSKI (als)", "0325 (Open) ", "FRA", "Guebwiller Alsace Subbuteo Club"],
+["","Ludovic BEAUVAIS (cca)", "No Ranked", "FRA", "Subbuteo Le Cannet Côte d'Azur"]
+]}

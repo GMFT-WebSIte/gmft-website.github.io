@@ -1,0 +1,78 @@
+<!DOCTYPE html><html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Table</title>
+<link rel="shortcut icon" type="image/png" href="/media/images/favicon.png"><link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.datatables.net/rss.xml">
+<link rel="stylesheet" type="text/css" href="ExternalResources/Bootstrap-3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="ExternalResources/datatables.min.css">
+<style type="text/css" class="init">
+	body { background: transparent; }
+	p.InterTabs { background: transparent; }
+	.nav-tabs>li>a {background: #ccc; }
+	.nav>li>a { padding:5px 5px; }
+	.tab-pane {background: transparent; }
+	tr.group, tr.group:hover {background-color: #ddd !important; }
+	th.thCenter {text-align: center; }
+</style>
+<script type="text/javascript" language="javascript" src="ExternalResources/jQuery-1.12.4/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" language="javascript" src="ExternalResources/Bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" language="javascript" src="ExternalResources/datatables.min.js"></script>
+<script type="text/javascript" language="javascript" src="GMFTResults.js"></script>
+</head>
+<body>
+<div class="container-fluid"><div class="row"><ul class="nav nav-tabs" role="tablist">
+<li class="active"><a href="#tab-TableOfData-D1" data-toggle="tab">D1</a></li>
+<li><a href="#tab-TableOfData-D2" data-toggle="tab">D2</a></li>
+<li><a href="#tab-TableOfData-D3" data-toggle="tab">D3</a></li>
+<li><a href="#tab-TableOfData-D4" data-toggle="tab">D4</a></li>
+<li><a href="#tab-TableOfData-U20" data-toggle="tab">U20</a></li>
+<li><a href="#tab-TableOfData-U16" data-toggle="tab">U16</a></li>
+<li><a href="#tab-TableOfData-Referent" data-toggle="tab">Referent</a></li>
+</ul>
+<div class="tab-content">
+<div id="tab-TableOfData-D1" class="tab-pane active">
+<table id="D1Groups" class="display compact dataTable dataTable GroupsIndivAlone" cellspacing="0" width="100%" data-ajax="data/Results-Groups-D1.txt">
+<thead><tr><th>Poule</th><th>Cl.</th><th>Nom</th><th>Pts</th><th>J</th><th>G</th><th>N</th><th>P</th><th>BP</th><th>BC</th><th>Diff.</th></tr></thead>
+</table><p> </p>
+</div>
+<div id="tab-TableOfData-D2" class="tab-pane">
+<table id="D2Groups" class="display compact dataTable dataTable GroupsIndivAlone" cellspacing="0" width="100%" data-ajax="data/Results-Groups-D2.txt">
+<thead><tr><th>Poule</th><th>Cl.</th><th>Nom</th><th>Pts</th><th>J</th><th>G</th><th>N</th><th>P</th><th>BP</th><th>BC</th><th>Diff.</th></tr></thead>
+</table><p> </p>
+</div>
+<div id="tab-TableOfData-D3" class="tab-pane">
+<table id="D3Groups" class="display compact dataTable dataTable GroupsIndivAlone" cellspacing="0" width="100%" data-ajax="data/Results-Groups-D3.txt">
+<thead><tr><th>Poule</th><th>Cl.</th><th>Nom</th><th>Pts</th><th>J</th><th>G</th><th>N</th><th>P</th><th>BP</th><th>BC</th><th>Diff.</th></tr></thead>
+</table><p> </p>
+</div>
+<div id="tab-TableOfData-D4" class="tab-pane">
+<table id="D4Groups" class="display compact dataTable dataTable GroupsIndiv" cellspacing="0" width="100%" data-ajax="data/Results-Groups-D4.txt">
+<thead><tr><th>Poule</th><th>Cl.</th><th>Nom</th><th>Pts</th><th>J</th><th>G</th><th>N</th><th>P</th><th>BP</th><th>BC</th><th>Diff.</th></tr></thead>
+</table><p> </p>
+<table id="D4Finals" class="display compact dataTable dataTable Finals" cellspacing="0" width="100%" data-ajax="data/Results-Finals-D4.txt">
+<thead><tr><th>Série</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th></tr></thead>
+</table>
+</div>
+<div id="tab-TableOfData-U20" class="tab-pane">
+<table id="U20Groups" class="display compact dataTable dataTable GroupsIndiv" cellspacing="0" width="100%" data-ajax="data/Results-Groups-U20.txt">
+<thead><tr><th>Poule</th><th>Cl.</th><th>Nom</th><th>Pts</th><th>J</th><th>G</th><th>N</th><th>P</th><th>BP</th><th>BC</th><th>Diff.</th></tr></thead>
+</table><p> </p>
+<table id="U20Finals" class="display compact dataTable dataTable Finals" cellspacing="0" width="100%" data-ajax="data/Results-Finals-U20.txt">
+<thead><tr><th>Série</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th></tr></thead>
+</table>
+</div>
+<div id="tab-TableOfData-U16" class="tab-pane">
+<table id="U16Groups" class="display compact dataTable dataTable GroupsIndiv" cellspacing="0" width="100%" data-ajax="data/Results-Groups-U16.txt">
+<thead><tr><th>Poule</th><th>Cl.</th><th>Nom</th><th>Pts</th><th>J</th><th>G</th><th>N</th><th>P</th><th>BP</th><th>BC</th><th>Diff.</th></tr></thead>
+</table><p> </p>
+<table id="U16Finals" class="display compact dataTable dataTable Finals" cellspacing="0" width="100%" data-ajax="data/Results-Finals-U16.txt">
+<thead><tr><th>Série</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th></tr></thead>
+</table>
+</div>
+<div id="tab-TableOfData-Referent" class="tab-pane">
+<table id="ReferentFinals" class="display compact dataTable dataTable FinalsAlone" cellspacing="0" width="100%" data-ajax="data/Results-Finals-Referent.txt">
+<thead><tr><th>Série</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th></tr></thead>
+</table>
+</div>
+</div></div></div></body></html>

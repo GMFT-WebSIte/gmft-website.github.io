@@ -1,0 +1,18 @@
+﻿{"data": [
+["01 - Poule 01", "R1", "M01", "Cyprien Bonnet (sym)", "4", "-", "0", "Thibaud Gauthier (sym)", " ", "", "", "", "Thomas Ponté (com)"],
+["01 - Poule 01", "R1", "M02", "Fanch Coquillon (com)", "1", "-", "2", "Quentin Ausset (chp)", " ", "", "", "", "Sébastien Sorge (lih)"],
+["01 - Poule 01", "R1", "M03", "Noé Bolusset (sym)", "2", "-", "3", "Lorenzo LoPetri (sym)", " ", "", "", "", "Laurent Meygret (sym)"],
+["01 - Poule 01", "R2", "M01", "Fanch Coquillon (com)", "4", "-", "1", "Thibaud Gauthier (sym)", " ", "", "", "", "Sébastien Sorge (lih)"],
+["01 - Poule 01", "R2", "M02", "Noé Bolusset (sym)", "2", "-", "6", "Quentin Ausset (chp)", " ", "", "", "", "Thomas Ponté (com)"],
+["01 - Poule 01", "R2", "M03", "Cyprien Bonnet (sym)", "2", "-", "3", "Lorenzo LoPetri (sym)", " ", "", "", "", "Eric Naszalyi (iss)"],
+["01 - Poule 01", "R3", "M01", "Cyprien Bonnet (sym)", "1", "-", "1", "Quentin Ausset (chp)", " ", "", "", "", "Aymeric Pouffet (aqu)"],
+["01 - Poule 01", "R3", "M02", "Noé Bolusset (sym)", "2", "-", "3", "Fanch Coquillon (com)", " ", "", "", "", "Laurent Ausset (chp)"],
+["01 - Poule 01", "R3", "M03", "Lorenzo LoPetri (sym)", "5", "-", "0", "Thibaud Gauthier (sym)", " ", "", "", "", "Yann Loarec (com)"],
+["01 - Poule 01", "R4", "M01", "Cyprien Bonnet (sym)", "0", "-", "1", "Fanch Coquillon (com)", " ", "", "", "", "Laurent Jaillet (chp)"],
+["01 - Poule 01", "R4", "M02", "Noé Bolusset (sym)", "4", "-", "0", "Thibaud Gauthier (sym)", " ", "", "", "", "Yann Loarec (com)"],
+["01 - Poule 01", "R4", "M03", "Lorenzo LoPetri (sym)", "1", "-", "2", "Quentin Ausset (chp)", " ", "", "", "", "Aymeric Pouffet (aqu)"],
+["01 - Poule 01", "R5", "M01", "Quentin Ausset (chp)", "6", "-", "0", "Thibaud Gauthier (sym)", " ", "", "", "", "Didier Le Dé (aqu)"],
+["01 - Poule 01", "R5", "M02", "Fanch Coquillon (com)", "1", "-", "1", "Lorenzo LoPetri (sym)", " ", "", "", "", "Eric Lienhardt (iss)"],
+["01 - Poule 01", "R5", "M03", "Cyprien Bonnet (sym)", "3", "-", "1", "Noé Bolusset (sym)", " ", "", "", "", "N/A"],
+["02 - FINALE", " ", "M01", "Quentin Ausset (chp)", "", "-", "", "Lorenzo LoPetri (sym)", "", "", "-", "", ""]
+]}

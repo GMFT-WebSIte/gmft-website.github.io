@@ -1,0 +1,10 @@
+﻿{"data": [
+["Poule 01", "1", "Thierry VIVRON (iss)", "FRA0016", "FTC Issy-les-Moulineaux"],
+["Poule 01", "2", "Quentin AUSSET (chp)", "FRA0120", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "3", "Cyprien BONNET (sym)", "FRA0189", "FTC Saint-Symphorien-sur-Coise"],
+["Poule 01", "4", "Jean-François BALARD (puy)", "FRA0010", "CFT Puylaurens"],
+["Poule 01", "5", "Cédric PANDOLFI (sym)", "FRA0187", "FTC Saint-Symphorien-sur-Coise"],
+["Poule 01", "6", "Stéphane POMMIER (cae)", "FRA0056", "FTC Caen"],
+["Poule 01", "7", "Françoise GUYOT (chp)", "FRA0039", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "8", "Audrey HERBAUT (chp)", "FRA0035", "Elan Subbutéo Club de Champs-sur-Marne"]
+]}

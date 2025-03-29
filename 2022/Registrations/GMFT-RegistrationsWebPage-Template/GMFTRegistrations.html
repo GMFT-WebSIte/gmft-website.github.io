@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Table</title>
+<link rel="shortcut icon" type="image/png" href="/media/images/favicon.png"><link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.datatables.net/rss.xml">
+<link rel="stylesheet" type="text/css" href="ExternalResources/Bootstrap-4-4.1.1/css/Cerulean/bootstrap.min.css"/>
+<link rel="stylesheet" type="text/css" href="ExternalResources/DataTables-1.10.20/css/dataTables.bootstrap4.min.css"/>
+<link rel="stylesheet" type="text/css" href="ExternalResources/FixedHeader-3.1.6/css/fixedHeader.bootstrap4.min.css"/>
+<style type="text/css" class="init">
+	body { background: transparent; }
+	}
+</style>
+<script type="text/javascript" src="ExternalResources/jQuery-3.3.1/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="ExternalResources/Bootstrap-4-4.1.1/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="ExternalResources/DataTables-1.10.20/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="ExternalResources/DataTables-1.10.20/js/dataTables.bootstrap4.min.js"></script>
+<script type="text/javascript" src="ExternalResources/FixedHeader-3.1.6/js/dataTables.fixedHeader.min.js"></script>
+<script type="text/javascript" language="javascript" src="GMFTRegistrations-Green.js"></script>
+</head>
+<body>
+<div class="container-fluid">
+	<nav class="navbar navbar-expand-md bg-success navbar-light fixed-top">
+		<a class="navbar-brand" href="#">
+			<img src="Custom/logo.png" alt="GMFT" style="width:40px;">
+		</a>
+		<!-- Toggler/collapsibe Button -->
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="collapsibleNavbar">
+			<ul class="navbar-nav nav nav-tabs" role="tablist">
+				<li class="nav-item active"><a class="nav-link" href="#tab-TableOfData-Individuals" role="tab" data-toggle="tab">Individuals</a></li>
+				<li class="nav-item"><a class="nav-link" href="#tab-TableOfData-Teams" role="tab" data-toggle="tab">Teams</a></li>
+			</ul>
+		</div>
+	</nav>
+	<div class="tab-content bg-dark" style="margin-top: 53px; padding: 5px;">
+		<div id="tab-TableOfData-Individuals" role="tabpanel" class="tab-pane active">
+			<table id="TableOfData-Individuals" class="table-striped table-success table-hover display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Registrations-Individuals.txt">
+				<thead class="thead-dark bg-primary"><tr><th></th><th>Name</th><th>Nation</th><th>Club</th><th>Cat.</th><th>D1</th><th>D2</th><th>Forfait_1des2_journees</th><th>U20</th><th>U16</th><th>D3</th><th>D4</th><th>HeadReferees</th><th>Equipe</th><th>Notes</th></tr></thead>
+			</table>
+		</div>
+		<div id="tab-TableOfData-Teams" role="tabpanel" class="tab-pane">
+			<table id="TableOfData-Teams" class="table-success table-hover display compact dataTableTeams" cellspacing="0" width="100%" data-ajax="data/Registrations-Teams.txt">
+				<thead class="thead-dark bg-primary"><tr><th>Team</th><th>Name</th><th>Ranking</th><th>Nation</th><th>Club</th></tr></thead>
+				<tfoot class="tfoot-dark bg-primary"><tr><th>Team</th><th>Name</th><th>Ranking</th><th>Nation</th><th>Club</th></tr></tfoot>
+			</table>
+		</div>
+	</div>
+</div>
+</body>
+</html>
+

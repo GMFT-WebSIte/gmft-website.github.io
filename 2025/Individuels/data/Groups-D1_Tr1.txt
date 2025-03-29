@@ -1,0 +1,18 @@
+﻿{"data": [
+["Poule 01", "1", "Raphaël POMMIER (cae)", "0038 (Open) ", "FTC Caen"],
+["Poule 01", "2", "Théo MODESTE (iss)", "0026 (Open) ", "FTC Issy-les-Moulineaux"],
+["Poule 01", "3", "Eric NASZALYI (iss)", "0204 (Open) 0060 (Vet) ", "FTC Issy-les-Moulineaux"],
+["Poule 01", "4", "Thierry VIVRON (iss)", "0261 (Open) 0055 (Vet) ", "FTC Issy-les-Moulineaux"],
+["Poule 01", "5", "David LEROY (puy)", "0216 (Open) ", "CFT Puylaurens"],
+["Poule 01", "6", "Françoise GUYOT (chp)", "0353 (Vet) 0009 (Wom) ", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "7", "Cyprien BONNET (sym)", "0519 (Open) ", "FTC Saint-Symphorien-sur-Coise"],
+["Poule 01", "8", "Cédric PANDOLFI (sym)", "0379 (Open) ", "FTC Saint-Symphorien-sur-Coise"],
+["Poule 02", "1", "Stéphane POMMIER (cae)", "0828 (Open) 0135 (Vet) ", "FTC Caen"],
+["Poule 02", "2", "Jean-Marie AMBERNY (iss)", "0140 (Open) 0070 (Vet) ", "FTC Issy-les-Moulineaux"],
+["Poule 02", "3", "Emmanuel GORGETTE (iss)", "0293 (Open) ", "FTC Issy-les-Moulineaux"],
+["Poule 02", "4", "Axel DONVAL (iss)", "0068 (Open) ", "FTC Issy-les-Moulineaux"],
+["Poule 02", "5", "Jean-François BALARD (puy)", "0828 (Open) ", "CFT Puylaurens"],
+["Poule 02", "6", "Audrey HERBAUT (chp)", "0227 (Open) 0002 (Wom) ", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 02", "7", "Quentin AUSSET (chp)", "0231 (Open) 0006 (U20) ", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 02", "8", "Mickaël BLANC (sym)", "0393 (Open) ", "FTC Saint-Symphorien-sur-Coise"]
+]}

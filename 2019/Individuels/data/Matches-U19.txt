@@ -1,0 +1,14 @@
+﻿{"data": [
+["01 - Poule 01", "R1", "M01", "Quentin Ausset (chp)", "5", "-", "1", "Noé Bolusset (sym)", " ", "", "", "", "Roger Trouillard (puy)"],
+["01 - Poule 01", "R1", "M02", "Cyprien Bonnet (sym)", "2", "-", "1", "Lorenzo Lo Preti (sym)", " ", "", "", "", "Patrice Grangier (sym)"],
+["01 - Poule 01", "R2", "M01", "Quentin Ausset (chp)", "1", "-", "0", "Lorenzo Lo Preti (sym)", " ", "", "", "", "Alexandre Marc (puy)"],
+["01 - Poule 01", "R2", "M02", "Cyprien Bonnet (sym)", "3", "-", "1", "Noé Bolusset (sym)", " ", "", "", "", "Mickaël Blanc (sym)"],
+["01 - Poule 01", "R3", "M01", "Quentin Ausset (chp)", "2", "-", "1", "Cyprien Bonnet (sym)", " ", "", "", "", "Thomas Ponté (com)"],
+["01 - Poule 01", "R3", "M02", "Lorenzo Lo Preti (sym)", "4", "-", "2", "Noé Bolusset (sym)", " ", "", "", "", "Axel Modeste (iss)"],
+["01 - Poule 01", "R4", "M01", "Noé Bolusset (sym)", "0", "-", "3", "Quentin Ausset (chp)", " ", "", "", "", "Romain Gadais (puy)"],
+["01 - Poule 01", "R4", "M02", "Lorenzo Lo Preti (sym)", "0", "-", "6", "Cyprien Bonnet (sym)", " ", "", "", "", "Thierry Jalbert (chp)"],
+["01 - Poule 01", "R5", "M01", "Lorenzo Lo Preti (sym)", "0", "-", "4", "Quentin Ausset (chp)", " ", "", "", "", "Axel Modeste (iss)"],
+["01 - Poule 01", "R5", "M02", "Noé Bolusset (sym)", "0", "-", "3", "Cyprien Bonnet (sym)", " ", "", "", "", "Serge Leroy (puy)"],
+["01 - Poule 01", "R6", "M01", "Cyprien Bonnet (sym)", "3", "-", "1", "Quentin Ausset (chp)", " ", "", "", "", "Stéphane Pommier (cae)"],
+["01 - Poule 01", "R6", "M02", "Noé Bolusset (sym)", "1", "-", "1", "Lorenzo Lo Preti (sym)", " ", "", "", "", "Hervé Fino (sym)"]
+]}

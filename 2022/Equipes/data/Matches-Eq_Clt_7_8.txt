@@ -1,0 +1,7 @@
+﻿{"data": [
+["01 - FINALE", "FINALE : M01", "Subbuteo Lille Metropole (lih)", "1", "-", "2", "FTC ST Symphorien sur Coise (sym)", "", "8", "-", "12", ""],
+["01 - FINALE", "FINALE : M01", "Emmanuel Gorgette (plo)", "2", "-", "2", "Denis Polsinelli (sym)", " ", " ", " ", " ", " "],
+["01 - FINALE", "FINALE : M01", "Sébastien Sorge (lih)", "3", "-", "7", "Hervé Fino (sym)", " ", " ", " ", " ", " "],
+["01 - FINALE", "FINALE : M01", "Rémi Soret (hen)", "3", "-", "1", "Cyprien Bonnet (sym)", " ", " ", " ", " ", " "],
+["01 - FINALE", "FINALE : M01", "Ludovic Midoux (hen)", "0", "-", "2", "Daniel Guyot (sym)", " ", " ", " ", " ", " "]
+]}

@@ -1,0 +1,8 @@
+﻿{"data": [
+["","Cyprien Bonnet (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Noé Bolusset (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Fanch Coquillon (com)", "9999", "FRA", "Celtic Combourg CFT"],
+["","Lorenzo LoPetri (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Quentin Ausset (chp)", "9999", "FRA", "Elan SC Champs"],
+["","Thibaud Gauthier (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"]
+]}

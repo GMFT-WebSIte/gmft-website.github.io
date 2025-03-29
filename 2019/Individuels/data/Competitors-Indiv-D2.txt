@@ -1,0 +1,10 @@
+﻿{"data": [
+["","Jean-Marie Amberny (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Skander Farza (com)", "9999", "TUN", "Celtic Combourg CFT"],
+["","Axel Modeste (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Christophe Monteiro (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Xavier Dubois (cae)", "9999", "FRA", "FTC Caen"],
+["","Daniel Guyot (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Thomas Ponté (com)", "9999", "FRA", "Celtic Combourg CFT"],
+["","Laurent Ausset (chp)", "9999", "FRA", "Elan SC Champs"]
+]}

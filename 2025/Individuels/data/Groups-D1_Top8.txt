@@ -1,0 +1,10 @@
+﻿{"data": [
+["Poule 01", "1", "Théo MODESTE (iss)", "FRA0025", "FTC Issy-les-Moulineaux"],
+["Poule 01", "2", "Axel DONVAL (iss)", "FRA0019", "FTC Issy-les-Moulineaux"],
+["Poule 01", "3", "Raphaël POMMIER (cae)", "FRA0062", "FTC Caen"],
+["Poule 01", "4", "Mickaël BLANC (sym)", "FRA0179", "FTC Saint-Symphorien-sur-Coise"],
+["Poule 01", "5", "David LEROY (puy)", "FRA0254", "CFT Puylaurens"],
+["Poule 01", "6", "Emmanuel GORGETTE (iss)", "FRA0017", "FTC Issy-les-Moulineaux"],
+["Poule 01", "7", "Eric NASZALYI (iss)", "FRA0014", "FTC Issy-les-Moulineaux"],
+["Poule 01", "8", "Jean-Marie AMBERNY (iss)", "FRA0018", "FTC Issy-les-Moulineaux"]
+]}

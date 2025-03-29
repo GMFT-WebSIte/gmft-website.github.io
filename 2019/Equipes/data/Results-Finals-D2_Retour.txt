@@ -1,0 +1,3 @@
+﻿{"data": [
+["FINALE", "FTC Issy-les-Moulineaux 2 (iss)", "", "-", "", "FTC ST Symphorien sur Coise 3 (sym)", "", "", "-", ""]
+]}

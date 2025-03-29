@@ -1,0 +1,10 @@
+﻿{"data": [
+["","David SARDI DE LETTO (lil)", "0828 (Open) 0353 (Vet) ", "FRA", "ALC Wattrelos - Subbuteo Lille Metropole"],
+["","Sébastien SORGE (lil)", "0308 (Vet) ", "FRA", "ALC Wattrelos - Subbuteo Lille Metropole"],
+["","Lea POUPART (com)", "0877 (Open) 0024 (Wom) 0060 (U20) ", "FRA", "Celtic Combourg CFT"],
+["","Laurent SALLE (com)", "0353 (Vet) ", "FRA", "Celtic Combourg CFT"],
+["","Sébastien LECERF (mon)", "0684 (Open) ", "FRA", "CFT Montivilliers"],
+["","Laurent JAILLET (chp)", "0262 (Vet) ", "FRA", "Elan Subbutéo Club de Champs-sur-Marne"],
+["","Vincent AUZILLEAU (aqu)", "No Ranked", "FRA", "Football de Table Aquitaine"],
+["","Stephane GALICHET ()", "0588 (Open) ", "FRA", "Free Agent"]
+]}

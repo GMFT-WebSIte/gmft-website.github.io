@@ -1,0 +1,7 @@
+﻿{"data": [
+["01 - FINALE", "FINALE : M01", "FTC ST Symphorien sur Coise 2 (sym)", "", "-", "", "Subbuteo Côte d'Azur (azu)", "", "", "-", "", ""],
+["01 - FINALE", "FINALE : M01", "", "", "-", "", "", " ", " ", " ", " ", " "],
+["01 - FINALE", "FINALE : M01", "", "", "-", "", "", " ", " ", " ", " ", " "],
+["01 - FINALE", "FINALE : M01", "", "", "-", "", "", " ", " ", " ", " ", " "],
+["01 - FINALE", "FINALE : M01", "", "", "-", "", "", " ", " ", " ", " ", " "]
+]}

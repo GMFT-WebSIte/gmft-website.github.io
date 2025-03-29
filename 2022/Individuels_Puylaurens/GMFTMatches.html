@@ -1,0 +1,39 @@
+<!DOCTYPE html><html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Table</title>
+<link rel="shortcut icon" type="image/png" href="/media/images/favicon.png"><link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.datatables.net/rss.xml">
+<link rel="stylesheet" type="text/css" href="ExternalResources/Bootstrap-3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="ExternalResources/datatables.min.css">
+<style type="text/css" class="init">
+	body { background: transparent; }
+	.nav-tabs>li>a {background: #ccc; }
+	.nav>li>a { padding:5px 5px; }
+	.tab-pane {background: transparent; }
+	tr.group, tr.group:hover {background-color: #ddd !important; }
+	tr.groupTop, tr.groupTop:hover {background-color: #aaa !important; }
+</style>
+<script type="text/javascript" language="javascript" src="ExternalResources/jQuery-1.12.4/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" language="javascript" src="ExternalResources/Bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" language="javascript" src="ExternalResources/datatables.min.js"></script>
+<script type="text/javascript" language="javascript" src="GMFTMatches.js"></script>
+</head><body>
+<div class="container-fluid"><div class="row"><ul class="nav nav-tabs" role="tablist">
+<li class="active"><a href="#tab-TableOfData-D1" data-toggle="tab">D1</a></li>
+<li><a href="#tab-TableOfData-D2" data-toggle="tab">D2</a></li>
+</ul>
+<div class="tab-content">
+<div id="tab-TableOfData-D1" class="tab-pane active">
+<table id="D1Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D1.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D2" class="tab-pane">
+<table id="D2Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D2.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+</div></div></div></body></html>

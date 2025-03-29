@@ -1,0 +1,6 @@
+﻿{"data": [
+["Poule 01", "1", "FTC ST Symphorien sur Coise 2 (sym)"],
+["Poule 01", "2", "FTC Issy-les-Moulineaux 2 (iss)"],
+["Poule 01", "3", "FTC ST Symphorien sur Coise 3 (sym)"],
+["Poule 01", "4", "---"]
+]}

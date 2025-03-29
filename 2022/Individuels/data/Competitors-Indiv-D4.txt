@@ -1,0 +1,14 @@
+﻿{"data": [
+["","Eric Siwzcak (can)", "9999", "FRA", "Subbuteo Le Cannet"],
+["","Enrico Lupo (can)", "9999", "FRA", "Subbuteo Le Cannet"],
+["","Liam Lupo (can)", "9999", "FRA", "Subbuteo Le Cannet"],
+["","Frédéric BondI (can)", "9999", "FRA", "Subbuteo Le Cannet"],
+["","Jean-Jacques Trichot (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Jérôme Monchalin (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Thibaud Gauthier (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Orlan Martin (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Théo Fromweiler (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Jade Guyot (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Tristan Monchalin (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Laurent Arduise", "9999", "FRA", "---"]
+]}

@@ -1,0 +1,117 @@
+<!DOCTYPE html><html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Table</title>
+<link rel="shortcut icon" type="image/png" href="/media/images/favicon.png"><link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.datatables.net/rss.xml">
+<link rel="stylesheet" type="text/css" href="ExternalResources/Bootstrap-3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="ExternalResources/datatables.min.css">
+<style type="text/css" class="init">
+	body { background: transparent; }
+	.nav-tabs>li>a {background: #ccc; }
+	.nav>li>a { padding:5px 5px; }
+	.tab-pane {background: transparent; }
+	tr.group, tr.group:hover {background-color: #ddd !important; }
+	tr.groupTop, tr.groupTop:hover {background-color: #aaa !important; }
+</style>
+<script type="text/javascript" language="javascript" src="ExternalResources/jQuery-1.12.4/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" language="javascript" src="ExternalResources/Bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" language="javascript" src="ExternalResources/datatables.min.js"></script>
+<script type="text/javascript" language="javascript" src="GMFTMatches.js"></script>
+</head><body>
+<div class="container-fluid"><div class="row"><ul class="nav nav-tabs" role="tablist">
+<li class="active"><a href="#tab-TableOfData-D1_Tr1" data-toggle="tab">D1_Tr1</a></li>
+<li><a href="#tab-TableOfData-D2_Tr1" data-toggle="tab">D2_Tr1</a></li>
+<li><a href="#tab-TableOfData-D3_Tr1" data-toggle="tab">D3_Tr1</a></li>
+<li><a href="#tab-TableOfData-D4_Tr1" data-toggle="tab">D4_Tr1</a></li>
+<li><a href="#tab-TableOfData-Nov_Sub" data-toggle="tab">Nov_Sub</a></li>
+<li><a href="#tab-TableOfData-D1_Top8" data-toggle="tab">D1_Top8</a></li>
+<li><a href="#tab-TableOfData-D1_Last8" data-toggle="tab">D1_Last8</a></li>
+<li><a href="#tab-TableOfData-D2_Top8" data-toggle="tab">D2_Top8</a></li>
+<li><a href="#tab-TableOfData-D2_Last8" data-toggle="tab">D2_Last8</a></li>
+<li><a href="#tab-TableOfData-D3_Top8" data-toggle="tab">D3_Top8</a></li>
+<li><a href="#tab-TableOfData-D3_Last8" data-toggle="tab">D3_Last8</a></li>
+<li><a href="#tab-TableOfData-D4_Top4" data-toggle="tab">D4_Top4</a></li>
+<li><a href="#tab-TableOfData-D4_Last4" data-toggle="tab">D4_Last4</a></li>
+</ul>
+Hide/Show column:<br><button type="button" class="site-btn toggle-vis" data-column="1">Série</button><button type="button" class="site-btn toggle-vis" data-column="2">Num. Match</button>
+<div class="tab-content">
+<div id="tab-TableOfData-D1_Tr1" class="tab-pane active">
+<table id="D1_Tr1Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D1_Tr1.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D2_Tr1" class="tab-pane">
+<table id="D2_Tr1Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D2_Tr1.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D3_Tr1" class="tab-pane">
+<table id="D3_Tr1Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D3_Tr1.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D4_Tr1" class="tab-pane">
+<table id="D4_Tr1Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D4_Tr1.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Nov_Sub" class="tab-pane">
+<table id="Nov_SubGroups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-Nov_Sub.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D1_Top8" class="tab-pane">
+<table id="D1_Top8Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D1_Top8.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D1_Last8" class="tab-pane">
+<table id="D1_Last8Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D1_Last8.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D2_Top8" class="tab-pane">
+<table id="D2_Top8Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D2_Top8.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D2_Last8" class="tab-pane">
+<table id="D2_Last8Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D2_Last8.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D3_Top8" class="tab-pane">
+<table id="D3_Top8Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D3_Top8.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D3_Last8" class="tab-pane">
+<table id="D3_Last8Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D3_Last8.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D4_Top4" class="tab-pane">
+<table id="D4_Top4Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D4_Top4.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-D4_Last4" class="tab-pane">
+<table id="D4_Last4Groups" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Matches-D4_Last4.txt">
+<thead><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></thead>
+<tfoot><tr><th>Phase</th><th>Série</th><th>Num. Match</th><th>Nom</th><th></th><th>-</th><th></th><th>Nom</th><th>MS</th><th></th><th>-</th><th></th><th>Arbitre</th></tr></tfoot>
+</table>
+</div>
+</div></div></div></body></html>

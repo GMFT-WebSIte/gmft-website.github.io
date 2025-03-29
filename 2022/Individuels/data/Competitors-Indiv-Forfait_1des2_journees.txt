@@ -1,0 +1,6 @@
+﻿{"data": [
+["","Jean-François Balard (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Olivier Bastin (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","David Zaki (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Eric Cazala (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"]
+]}

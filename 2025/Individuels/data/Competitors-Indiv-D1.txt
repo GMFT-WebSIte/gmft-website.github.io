@@ -1,0 +1,18 @@
+﻿{"data": [
+["","David LEROY (puy)", "0216 (Open) ", "FRA", "CFT Puylaurens"],
+["","Jean-François BALARD (puy)", "0828 (Open) ", "FRA", "CFT Puylaurens"],
+["","Françoise GUYOT (chp)", "0353 (Vet) 0009 (Wom) ", "FRA", "Elan Subbutéo Club de Champs-sur-Marne"],
+["","Audrey HERBAUT (chp)", "0227 (Open) 0002 (Wom) ", "FRA", "Elan Subbutéo Club de Champs-sur-Marne"],
+["","Quentin AUSSET (chp)", "0231 (Open) 0006 (U20) ", "FRA", "Elan Subbutéo Club de Champs-sur-Marne"],
+["","Raphaël POMMIER (cae)", "0038 (Open) ", "FRA", "FTC Caen"],
+["","Stéphane POMMIER (cae)", "0828 (Open) 0135 (Vet) ", "FRA", "FTC Caen"],
+["","Théo MODESTE (iss)", "0026 (Open) ", "FRA", "FTC Issy-les-Moulineaux"],
+["","Eric NASZALYI (iss)", "0204 (Open) 0060 (Vet) ", "FRA", "FTC Issy-les-Moulineaux"],
+["","Thierry VIVRON (iss)", "0261 (Open) 0055 (Vet) ", "FRA", "FTC Issy-les-Moulineaux"],
+["","Jean-Marie AMBERNY (iss)", "0140 (Open) 0070 (Vet) ", "FRA", "FTC Issy-les-Moulineaux"],
+["","Emmanuel GORGETTE (iss)", "0293 (Open) ", "FRA", "FTC Issy-les-Moulineaux"],
+["","Axel DONVAL (iss)", "0068 (Open) ", "FRA", "FTC Issy-les-Moulineaux"],
+["","Cyprien BONNET (sym)", "0519 (Open) ", "FRA", "FTC Saint-Symphorien-sur-Coise"],
+["","Cédric PANDOLFI (sym)", "0379 (Open) ", "FRA", "FTC Saint-Symphorien-sur-Coise"],
+["","Mickaël BLANC (sym)", "0393 (Open) ", "FRA", "FTC Saint-Symphorien-sur-Coise"]
+]}

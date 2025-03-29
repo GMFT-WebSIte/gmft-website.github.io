@@ -1,0 +1,10 @@
+﻿{"data": [
+["Poule 01", "1", "Jean-Marie Fouetillou (cae)", "9999", "FTC Caen"],
+["Poule 01", "2", "Denis Polsinelli (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 01", "3", "Thierry Jalbert (chp)", "9999", "Elan SC Champs"],
+["Poule 01", "4", "Chistophe France (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 01", "5", "Patrice Grangier (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 01", "6", "Johnny Ledieu (chp)", "9999", "Elan SC Champs"],
+["Poule 01", "7", "Julien Blanchon (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 01", "8", "Roger Trouillard (puy)", "9999", "CFT Puylaurens"]
+]}

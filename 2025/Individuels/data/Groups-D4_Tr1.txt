@@ -1,0 +1,10 @@
+﻿{"data": [
+["Poule 01", "1", "Vincent AUZILLEAU (aqu)", "No Ranked", "Football de Table Aquitaine"],
+["Poule 01", "2", "David SARDI DE LETTO (lil)", "0828 (Open) 0353 (Vet) ", "ALC Wattrelos - Subbuteo Lille Metropole"],
+["Poule 01", "3", "Sébastien SORGE (lil)", "0308 (Vet) ", "ALC Wattrelos - Subbuteo Lille Metropole"],
+["Poule 01", "4", "Lea POUPART (com)", "0877 (Open) 0024 (Wom) 0060 (U20) ", "Celtic Combourg CFT"],
+["Poule 01", "5", "Stephane GALICHET ()", "0588 (Open) ", "Free Agent"],
+["Poule 01", "6", "Laurent JAILLET (chp)", "0262 (Vet) ", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "7", "Laurent SALLE (com)", "0353 (Vet) ", "Celtic Combourg CFT"],
+["Poule 01", "8", "Sébastien LECERF (mon)", "0684 (Open) ", "CFT Montivilliers"]
+]}

@@ -1,0 +1,18 @@
+﻿{"data": [
+["01 - Poule 01", "R1", "M01", "Liam Lupo (can)", "4", "-", "0", "Domitille Cecillon (bos)", " ", "", "", "", "Jean-Marie Amberny (iss)"],
+["01 - Poule 01", "R1", "M02", "Théo Fromweiler (sym)", "0", "-", "1", "Tristan Monchalin (sym)", " ", "", "", "", "Axel Donval ()"],
+["01 - Poule 01", "R1", "M03", "Orlan Martin (sym)", "3", "-", "1", "Jade Guyot (sym)", " ", "", "", "", "Emmanuel Gorgette (plo)"],
+["01 - Poule 01", "R2", "M01", "Théo Fromweiler (sym)", "0", "-", "0", "Domitille Cecillon (bos)", " ", "", "", "", "Christophe Monteiro (iss)"],
+["01 - Poule 01", "R2", "M02", "Orlan Martin (sym)", "3", "-", "0", "Tristan Monchalin (sym)", " ", "", "", "", "Laurent Jaillet (chp)"],
+["01 - Poule 01", "R2", "M03", "Liam Lupo (can)", "2", "-", "0", "Jade Guyot (sym)", " ", "", "", "", "N/A"],
+["01 - Poule 01", "R3", "M01", "Liam Lupo (can)", "2", "-", "0", "Tristan Monchalin (sym)", " ", "", "", "", "Irène Rivière (iss)"],
+["01 - Poule 01", "R3", "M02", "Orlan Martin (sym)", "0", "-", "0", "Théo Fromweiler (sym)", " ", "", "", "", "Xavier Dubois (cae)"],
+["01 - Poule 01", "R3", "M03", "Jade Guyot (sym)", "0", "-", "0", "Domitille Cecillon (bos)", " ", "", "", "", "Axel Donval ()"],
+["01 - Poule 01", "R4", "M01", "Liam Lupo (can)", "2", "-", "0", "Théo Fromweiler (sym)", " ", "", "", "", "Sébastien Sorge (lih)"],
+["01 - Poule 01", "R4", "M02", "Orlan Martin (sym)", "6", "-", "1", "Domitille Cecillon (bos)", " ", "", "", "", "Ludovic Midoux (hen)"],
+["01 - Poule 01", "R4", "M03", "Jade Guyot (sym)", "0", "-", "1", "Tristan Monchalin (sym)", " ", "", "", "", "Paul Naszalyi (iss)"],
+["01 - Poule 01", "R5", "M01", "Tristan Monchalin (sym)", "2", "-", "0", "Domitille Cecillon (bos)", " ", "", "", "", "Audrey Herbaut (chp)"],
+["01 - Poule 01", "R5", "M02", "Théo Fromweiler (sym)", "0", "-", "1", "Jade Guyot (sym)", " ", "", "", "", "Sébastien Sorge (lih)"],
+["01 - Poule 01", "R5", "M03", "Liam Lupo (can)", "1", "-", "1", "Orlan Martin (sym)", " ", "", "", "", "Aymeric Pouffet (aqu)"],
+["02 - FINALE", " ", "M01", "Liam Lupo (can)", "", "-", "", "Orlan Martin (sym)", "", "", "-", "", ""]
+]}

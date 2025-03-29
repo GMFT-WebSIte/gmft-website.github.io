@@ -1,0 +1,10 @@
+﻿{"data": [
+["Poule 01", "1", "Jean-Marie FOUETILLOU (cae)", "FRA0059", "FTC Caen"],
+["Poule 01", "2", "Louis SORET (hen)", "FRA0169", "Avenir Subbuteo Hennuyer"],
+["Poule 01", "3", "Lorenzo LO PRETI (als)", "FRA0176", "Guebwiller Alsace Subbuteo Club"],
+["Poule 01", "4", "Nicolas LEFÈBVRE (cae)", "FRA0094", "FTC Caen"],
+["Poule 01", "5", "Laurent AUSSET (chp)", "FRA0119", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "6", "Yann LOAREC (com)", "FRA0054", "Celtic Combourg CFT"],
+["Poule 01", "7", "Fayçal ROUIS (cae)", "FRA0022", "FTC Caen"],
+["Poule 01", "8", "Abdelmaneum ROUIS (cae)", "FRA0296", "FTC Caen"]
+]}

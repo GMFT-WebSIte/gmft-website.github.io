@@ -1,0 +1,18 @@
+﻿{"data": [
+["","Roger Trouillard (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Mickaël Blanc (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Daniel Guyot (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Eric Naszalyi (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Denis Polsinelli (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Olivier Bastin (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","Cédric Pandolfi (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Cyprien Bonnet (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Sébastien Dohet (hut)", "9999", "BEL", "US Huy"],
+["","Stéphanie Garnier (tib)", "9999", "FRA", "Tiburones FM"],
+["","Kévin Pouffet (puy)", "9999", "FRA", "CFT Puylaurens"],
+["","David Zaki (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Eric Cazala (iss)", "9999", "FRA", "FTC Issy-les-Moulineaux"],
+["","Françoise Guyot (chp)", "9999", "FRA", "Elan SC Champs"],
+["","Noé Bolusset (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Cyril Bolusset (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"]
+]}

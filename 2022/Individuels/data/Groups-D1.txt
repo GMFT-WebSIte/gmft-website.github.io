@@ -1,0 +1,18 @@
+﻿{"data": [
+["Poule 01", "1", "Thierry Vivron (iss)", "9999", "FTC Issy-les-Moulineaux"],
+["Poule 01", "2", "Jean-Marie Amberny (iss)", "9999", "FTC Issy-les-Moulineaux"],
+["Poule 01", "3", "Axel Donval ()", "9999", "-"],
+["Poule 01", "4", "Emmanuel Gorgette (plo)", "9999", "SC Palermo 2016"],
+["Poule 01", "5", "Raphaël Pommier (cae)", "9999", "FTC Caen"],
+["Poule 01", "6", "Audrey Herbaut (chp)", "9999", "Elan SC Champs"],
+["Poule 01", "7", "Serge Leroy (puy)", "9999", "CFT Puylaurens"],
+["Poule 01", "8", "Jean-François Balard (puy)", "9999", "CFT Puylaurens"],
+["Poule 01", "9", "Paul Naszalyi (iss)", "9999", "FTC Issy-les-Moulineaux"],
+["Poule 01", "10", "Christophe Monteiro (iss)", "9999", "FTC Issy-les-Moulineaux"],
+["Poule 01", "11", "Rémi Soret (hen)", "9999", "Avenir Subbuteo Hennuyer"],
+["Poule 01", "12", "Irène Rivière (iss)", "9999", "FTC Issy-les-Moulineaux"],
+["Poule 01", "13", "Axel Modeste (iss)", "9999", "FTC Issy-les-Moulineaux"],
+["Poule 01", "14", "Ludovic Midoux (hen)", "9999", "Avenir Subbuteo Hennuyer"],
+["Poule 01", "15", "Xavier Dubois (cae)", "9999", "FTC Caen"],
+["Poule 01", "16", "Théo Modeste (iss)", "9999", "FTC Issy-les-Moulineaux"]
+]}

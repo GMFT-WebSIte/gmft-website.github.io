@@ -1,0 +1,6 @@
+﻿{"data": [
+["Poule 01", "1", "Sébastien SORGE (lil)", "FRA0197", "ALC Wattrelos - Subbuteo Lille Metropole"],
+["Poule 01", "2", "Laurent JAILLET (chp)", "FRA0210", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "3", "Laurent SALLE (com)", "FRA0079", "Celtic Combourg CFT"],
+["Poule 01", "4", "Vincent AUZILLEAU (aqu)", "FRA0330", "Football de Table Aquitaine"]
+]}

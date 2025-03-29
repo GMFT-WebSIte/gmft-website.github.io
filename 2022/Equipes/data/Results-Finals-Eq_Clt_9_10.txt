@@ -1,0 +1,3 @@
+﻿{"data": [
+["FINALE", "Subbuteo Le Cannet (can)", "", "-", "", "FDT Aquitaine - Prignac et Marcamps (aqu)", "", "", "-", ""]
+]}

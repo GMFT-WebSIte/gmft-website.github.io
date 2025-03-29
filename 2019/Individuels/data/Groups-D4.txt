@@ -1,0 +1,17 @@
+﻿{"data": [
+["Poule 01", "1", "David Durand (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 01", "2", "Hervé Fino (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 01", "3", "Stéphane Pommier (cae)", "9999", "FTC Caen"],
+["Poule 01", "4", "Serge Leroy (puy)", "9999", "CFT Puylaurens"],
+["Poule 01", "5", "Alexandre Marc (puy)", "9999", "CFT Puylaurens"],
+["Poule 01", "6", "Romain Gadais (puy)", "9999", "CFT Puylaurens"],
+["Poule 01", "7", "Cyril Bolusset (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 02", "1", "Jérome Deffolin (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 02", "2", "Cédric Pandolfi (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 02", "3", "Christophe Fuseau (com)", "9999", "Celtic Combourg CFT"],
+["Poule 02", "4", "Jean-François Balard (puy)", "9999", "CFT Puylaurens"],
+["Poule 02", "5", "Cyril Ollivier ()", "9999", "Individuel"],
+["Poule 02", "6", "Olivier Bastin (puy)", "9999", "CFT Puylaurens"],
+["Poule 02", "7", "Ludovic Beauvais (puy)", "9999", "CFT Puylaurens"],
+["Poule 02", "8", "Laurent Meygret (sym)", "9999", "FTC ST Symphorien sur Coise"]
+]}

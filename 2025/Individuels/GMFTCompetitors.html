@@ -1,0 +1,61 @@
+<!DOCTYPE html><html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Table</title>
+<link rel="shortcut icon" type="image/png" href="/media/images/favicon.png"><link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.datatables.net/rss.xml">
+<link rel="stylesheet" type="text/css" href="ExternalResources/Bootstrap-3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="ExternalResources/datatables.min.css">
+<style type="text/css" class="init">
+	body { background: transparent; }
+	.nav-tabs>li>a {background: #ccc; }
+	.nav>li>a { padding:5px 5px; }
+	.tab-pane {background: transparent; }
+	tr.group, tr.group:hover {background-color: #ddd !important; }
+</style>
+<script type="text/javascript" language="javascript" src="ExternalResources/jQuery-1.12.4/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" language="javascript" src="ExternalResources/Bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" language="javascript" src="ExternalResources/datatables.min.js"></script>
+<script type="text/javascript" language="javascript" src="GMFTCompetitors.js"></script>
+</head>
+<body>
+<div class="container-fluid"><div class="row"><ul class="nav nav-tabs" role="tablist">
+<li class="active"><a href="#tab-TableOfData-Indiv-D1" role="tab" data-toggle="tab">Players-D1</a></li>
+<li><a href="#tab-TableOfData-Indiv-D2" role="tab" data-toggle="tab">Players-D2</a></li>
+<li><a href="#tab-TableOfData-Indiv-D3" role="tab" data-toggle="tab">Players-D3</a></li>
+<li><a href="#tab-TableOfData-Indiv-D4" role="tab" data-toggle="tab">Players-D4</a></li>
+<li><a href="#tab-TableOfData-Indiv-Novice_Subbuteo" role="tab" data-toggle="tab">Players-Novice_Subbuteo</a></li>
+</ul>
+Hide/Show column:<br><button type="button" class="site-btn toggle-vis" data-column="2">Classement</button><button type="button" class="site-btn toggle-vis" data-column="3">Nation</button><button type="button" class="site-btn toggle-vis" data-column="4">Club</button>
+<div class="tab-content">
+<div id="tab-TableOfData-Indiv-D1" role="tabpanel" class="tab-pane active">
+<table id="TableOfData-Indiv-D1" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-D1.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Indiv-D2" role="tabpanel" class="tab-pane">
+<table id="TableOfData-Indiv-D2" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-D2.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Indiv-D3" role="tabpanel" class="tab-pane">
+<table id="TableOfData-Indiv-D3" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-D3.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Indiv-D4" role="tabpanel" class="tab-pane">
+<table id="TableOfData-Indiv-D4" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-D4.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Indiv-Novice_Subbuteo" role="tabpanel" class="tab-pane">
+<table id="TableOfData-Indiv-Novice_Subbuteo" class="display compact dataTableIndiv" cellspacing="0" width="100%" data-ajax="data/Competitors-Indiv-Novice_Subbuteo.txt">
+<thead><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></thead>
+<tfoot><tr><th></th><th>Nom</th><th>Classement</th><th>Nation</th><th>Club</th></tr></tfoot>
+</table>
+</div>
+</div></div></div></body></html>

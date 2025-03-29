@@ -1,0 +1,18 @@
+﻿{"data": [
+["Poule 01", "1", "Olivier BASTIN (puy)", "0588 (Open) ", "CFT Puylaurens"],
+["Poule 01", "2", "Thomas PONTÉ (com)", "0286 (Open) ", "Celtic Combourg CFT"],
+["Poule 01", "3", "Rémi SORET (hen)", "0023 (Open) ", "Avenir Subbuteo Hennuyer"],
+["Poule 01", "4", "Xavier DUBOIS (cae)", "0362 (Open) 0054 (Vet) ", "FTC Caen"],
+["Poule 01", "5", "Johnny LEDIEU (chp)", "0668 (Open) ", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 01", "6", "Aymeric POUFFET (aqu)", "0643 (Open) ", "Football de Table Aquitaine"],
+["Poule 01", "7", "Thibault LESNE (aqu)", "0359 (Open) ", "Football de Table Aquitaine"],
+["Poule 01", "8", "Jean-Jacques TRICHOT (css)", "0668 (Open) 0170 (Vet) ", "Club Stéphanois Subbuteo - ALC"],
+["Poule 02", "1", "Roger TROUILLARD (puy)", "No Ranked", "CFT Puylaurens"],
+["Poule 02", "2", "Kévin POUFFET (puy)", "0484 (Open) ", "CFT Puylaurens"],
+["Poule 02", "3", "Ludovic BEAUVAIS (cca)", "No Ranked", "Subbuteo Le Cannet Côte d'Azur"],
+["Poule 02", "4", "Hervé RAKOWSKI (als)", "0325 (Open) ", "Guebwiller Alsace Subbuteo Club"],
+["Poule 02", "5", "Franck DUBREUIL (chp)", "0232 (Open) ", "Elan Subbutéo Club de Champs-sur-Marne"],
+["Poule 02", "6", "Nicolas MORIER (aqu)", "0613 (Open) ", "Football de Table Aquitaine"],
+["Poule 02", "7", "Alban BOIGEOL (aqu)", "0756 (Open) 0287 (Vet) ", "Football de Table Aquitaine"],
+["Poule 02", "8", "Didier LE DE (aqu)", "No Ranked", "Football de Table Aquitaine"]
+]}

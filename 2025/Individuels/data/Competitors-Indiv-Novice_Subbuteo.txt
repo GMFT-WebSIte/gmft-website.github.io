@@ -1,0 +1,17 @@
+﻿{"data": [
+["","Thibault MARVILLE (lil)", "No Ranked", "FRA", "ALC Wattrelos - Subbuteo Lille Metropole"],
+["","Jean-Michel CORDIER (lil)", "No Ranked", "FRA", "ALC Wattrelos - Subbuteo Lille Metropole"],
+["","Jean-Marc REORTHE (com)", "No Ranked", "FRA", "Celtic Combourg CFT"],
+["","Emeline LECERF (mon)", "No Ranked", "FRA", "CFT Montivilliers"],
+["","Jean-Maurice NOËL (css)", "0798 (Open) 0376 (Vet) ", "FRA", "Club Stéphanois Subbuteo - ALC"],
+["","Vincent VANDAMME (chp)", "0353 (Vet) ", "FRA", "Elan Subbutéo Club de Champs-sur-Marne"],
+["","Martial FOCHTERLE (als)", "No Ranked", "FRA", "Guebwiller Alsace Subbuteo Club"],
+["","Eric DUJARDIN (duc)", "1098 (Open) ", "FRA", "Les Ducs Chalon-sur-Saône FTSC"],
+["","Giovanni CHIAPPETTA (puc)", "0508 (Open) ", "FRA", "Paris Université Club"],
+["","Gabriel CHIAPPETTA (puc)", "0828 (Open) 0005 (U12) ", "FRA", "Paris Université Club"],
+["","Augustin LEDOIT (puc)", "1098 (Open) 0004 (U12) ", "FRA", "Paris Université Club"],
+["","Cyril LEDOIT (puc)", "1081 (Open) ", "FRA", "Paris Université Club"],
+["","Jérémy IDOUX (lor)", "1098 (Open) ", "FRA", "RC Lorraine Subbuteo Club"],
+["","Jean-Michel HLUPIC (lor)", "1098 (Open) ", "FRA", "RC Lorraine Subbuteo Club"],
+["","Françis LAURENT (lor)", "No Ranked", "FRA", "RC Lorraine Subbuteo Club"]
+]}

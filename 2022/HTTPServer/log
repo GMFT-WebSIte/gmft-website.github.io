@@ -1,0 +1,856 @@
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 1
+[384] connection accepted
+[384] IP: 127.0.0.1
+Connected clients: 2
+[380] request path: 
+[380] 218 bytes sent (218 KB/s)
+[380] 5344 bytes sent (5344 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 2
+[384] request path: assets/bootstrap/css/bootstrap.min.css
+[384] 219 bytes sent (219 KB/s)
+[384] 131291 bytes sent (131291 KB/s)
+[384] 153401 bytes sent (153401 KB/s)
+[384] socket closed after responded for 1 requests
+Connected clients: 1
+[384] connection accepted
+[384] IP: 127.0.0.1
+Connected clients: 1
+[384] request path: assets/bootstrap/css/bootstrap-grid.min.css
+[384] 218 bytes sent (218 KB/s)
+[384] 48706 bytes sent (48706 KB/s)
+[384] socket closed after responded for 1 requests
+Connected clients: 1
+[384] connection accepted
+[384] IP: 127.0.0.1
+Connected clients: 1
+[384] request path: assets/bootstrap/css/bootstrap-reboot.min.css
+[384] 217 bytes sent (217 KB/s)
+[384] 4053 bytes sent (4053 KB/s)
+[384] socket closed after responded for 1 requests
+Connected clients: 1
+[384] connection accepted
+[384] IP: 127.0.0.1
+Connected clients: 1
+[384] request path: assets/tether/tether.min.css
+[388] connection accepted
+[388] IP: 127.0.0.1
+Connected clients: 2
+[384] 216 bytes sent (216 KB/s)
+[388] request path: assets/theme/css/style.css
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 3
+[384] 453 bytes sent (453 KB/s)
+[384] socket closed after responded for 1 requests
+Connected clients: 3
+[388] 218 bytes sent (218 KB/s)
+[396] request path: assets/mobirise/css/mbr-additional.css
+[388] 23571 bytes sent (23571 KB/s)
+[388] socket closed after responded for 1 requests
+Connected clients: 2
+[396] 218 bytes sent (218 KB/s)
+[396] 19164 bytes sent (19164 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 1
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 1
+[396] request path: assets/web/assets/jquery/jquery.min.js
+[396] 234 bytes sent (234 KB/s)
+[396] 96165 bytes sent (96165 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 1
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 1
+[396] request path: assets/popper/popper.min.js
+[396] 234 bytes sent (234 KB/s)
+[396] 19228 bytes sent (19228 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 1
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 1
+[396] request path: assets/bootstrap/js/bootstrap.min.js
+[396] 234 bytes sent (234 KB/s)
+[396] 56009 bytes sent (56009 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 1
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 1
+[396] request path: assets/tether/tether.min.js
+[388] connection accepted
+[388] IP: 127.0.0.1
+Connected clients: 2
+[396] 234 bytes sent (234 KB/s)
+[388] request path: assets/smoothscroll/smooth-scroll.js
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 3
+[396] 23451 bytes sent (23451 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 3
+[388] 234 bytes sent (234 KB/s)
+[380] request path: assets/parallax/jarallax.min.js
+[384] connection accepted
+[384] IP: 127.0.0.1
+Connected clients: 3
+[384] request path: assets/theme/js/script.js
+[388] 25803 bytes sent (25803 KB/s)
+[388] socket closed after responded for 1 requests
+Connected clients: 3
+[380] 234 bytes sent (234 KB/s)
+[388] connection accepted
+[388] IP: 127.0.0.1
+Connected clients: 3
+[384] 234 bytes sent (0 KB/s)
+[388] request path: assets/images/gmftfistf2017.gif
+[380] 15705 bytes sent (15 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 3
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 3
+[384] 49679 bytes sent (48 KB/s)
+[384] socket closed after responded for 1 requests
+Connected clients: 3
+[388] 219 bytes sent (219 KB/s)
+[380] request path: assets/images/dsc05060-1014x675.jpg
+[388] 11989 bytes sent (11989 KB/s)
+[388] socket closed after responded for 1 requests
+Connected clients: 2
+[380] 221 bytes sent (221 KB/s)
+[380] 131293 bytes sent (131293 KB/s)
+[380] 155575 bytes sent (155575 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 1
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 1
+[380] request path: assets/images/logo4.png
+[380] 218 bytes sent (218 KB/s)
+[380] 7209 bytes sent (7209 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 1
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 1
+[380] request path: GMFT-TournamentWebSite-Template/index.html
+[380] 218 bytes sent (0 KB/s)
+[380] 5533 bytes sent (0 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 1
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 1
+[380] request path: GMFT-TournamentWebSite-Template/assets/web/assets/mobirise-icons2/mobirise2.css
+[380] 217 bytes sent (0 KB/s)
+[380] 8926 bytes sent (8 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 1
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 1
+[384] connection accepted
+[384] IP: 127.0.0.1
+Connected clients: 2
+[380] request path: GMFT-TournamentWebSite-Template/assets/web/assets/mobirise-icons/mobirise-icons.css
+[380] 217 bytes sent (217 KB/s)
+[384] request path: GMFT-TournamentWebSite-Template/assets/bootstrap/css/bootstrap.min.css
+[400] connection accepted
+[400] IP: 127.0.0.1
+Connected clients: 3
+[380] 7830 bytes sent (7830 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 3
+[384] 219 bytes sent (219 KB/s)
+[400] request path: GMFT-TournamentWebSite-Template/assets/bootstrap/css/bootstrap-grid.min.css
+[388] connection accepted
+[388] IP: 127.0.0.1
+Connected clients: 3
+[388] request path: GMFT-TournamentWebSite-Template/assets/bootstrap/css/bootstrap-reboot.min.css
+[384] 131291 bytes sent (131291 KB/s)
+[400] 218 bytes sent (218 KB/s)
+[404] connection accepted
+[404] IP: 127.0.0.1
+Connected clients: 4
+[388] 217 bytes sent (217 KB/s)
+[384] 153401 bytes sent (153401 KB/s)
+[384] socket closed after responded for 1 requests
+Connected clients: 4
+[400] 48706 bytes sent (48706 KB/s)
+[400] socket closed after responded for 1 requests
+Connected clients: 3
+[404] request path: GMFT-TournamentWebSite-Template/assets/animatecss/animate.min.css
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 3
+[388] 4053 bytes sent (4053 KB/s)
+[388] socket closed after responded for 1 requests
+Connected clients: 3
+[380] request path: GMFT-TournamentWebSite-Template/assets/tether/tether.min.css
+[404] 218 bytes sent (218 KB/s)
+[380] 216 bytes sent (216 KB/s)
+[404] 53007 bytes sent (53007 KB/s)
+[404] socket closed after responded for 1 requests
+Connected clients: 2
+[380] 453 bytes sent (453 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 1
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 1
+[380] request path: GMFT-TournamentWebSite-Template/assets/dropdown/css/style.css
+[380] 217 bytes sent (217 KB/s)
+[380] 8199 bytes sent (8199 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 1
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 1
+[380] request path: GMFT-TournamentWebSite-Template/assets/theme/css/style.css
+[380] 218 bytes sent (218 KB/s)
+[380] 23571 bytes sent (23571 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 1
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 1
+[380] request path: GMFT-TournamentWebSite-Template/assets/mobirise/css/mbr-additional.css
+[404] connection accepted
+[404] IP: 127.0.0.1
+Connected clients: 2
+[380] 218 bytes sent (218 KB/s)
+[404] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/GMFTRegistrations.html
+[380] 59310 bytes sent (59310 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 2
+[404] 218 bytes sent (218 KB/s)
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 2
+[380] request path: GMFT-TournamentWebSite-Template/assets/popper/popper.min.js
+[404] 3727 bytes sent (3727 KB/s)
+[404] socket closed after responded for 1 requests
+Connected clients: 2
+[404] connection accepted
+[404] IP: 127.0.0.1
+Connected clients: 2
+[380] 234 bytes sent (234 KB/s)
+[404] request path: GMFT-TournamentWebSite-Template/assets/web/assets/jquery/jquery.min.js
+[380] 19228 bytes sent (19228 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 2
+[404] 234 bytes sent (234 KB/s)
+[404] 96165 bytes sent (96165 KB/s)
+[404] socket closed after responded for 1 requests
+Connected clients: 1
+[404] connection accepted
+[404] IP: 127.0.0.1
+Connected clients: 1
+[404] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/Bootstrap-4-4.1.1/css/Cerulean/bootstrap.min.css
+[404] 219 bytes sent (219 KB/s)
+[404] 131291 bytes sent (131291 KB/s)
+[404] 184136 bytes sent (184136 KB/s)
+[404] socket closed after responded for 1 requests
+Connected clients: 1
+[404] connection accepted
+[404] IP: 127.0.0.1
+Connected clients: 1
+[404] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/DataTables-1.10.20/css/dataTables.bootstrap4.min.css
+[404] 217 bytes sent (217 KB/s)
+[404] 5439 bytes sent (5439 KB/s)
+[404] socket closed after responded for 1 requests
+Connected clients: 1
+[404] connection accepted
+[404] IP: 127.0.0.1
+Connected clients: 1
+[404] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/FixedHeader-3.1.6/css/fixedHeader.bootstrap4.min.css
+[404] 216 bytes sent (216 KB/s)
+[404] 544 bytes sent (544 KB/s)
+[404] socket closed after responded for 1 requests
+Connected clients: 1
+[404] connection accepted
+[404] IP: 127.0.0.1
+Connected clients: 1
+[404] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/jQuery-3.3.1/jquery-3.3.1.min.js
+[404] 234 bytes sent (234 KB/s)
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 2
+[404] 87161 bytes sent (87161 KB/s)
+[404] socket closed after responded for 1 requests
+Connected clients: 2
+[380] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/Bootstrap-4-4.1.1/js/bootstrap.min.js
+[400] connection accepted
+[400] IP: 127.0.0.1
+Connected clients: 2
+[400] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/DataTables-1.10.20/js/jquery.dataTables.min.js
+[380] 234 bytes sent (234 KB/s)
+[400] 234 bytes sent (234 KB/s)
+[380] 50965 bytes sent (50965 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 2
+[400] 84555 bytes sent (84555 KB/s)
+[400] socket closed after responded for 1 requests
+Connected clients: 1
+[400] connection accepted
+[400] IP: 127.0.0.1
+Connected clients: 1
+[400] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/DataTables-1.10.20/js/dataTables.bootstrap4.min.js
+[400] 233 bytes sent (233 KB/s)
+[400] 3392 bytes sent (3392 KB/s)
+[400] socket closed after responded for 1 requests
+Connected clients: 1
+[400] connection accepted
+[400] IP: 127.0.0.1
+Connected clients: 1
+[400] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/FixedHeader-3.1.6/js/dataTables.fixedHeader.min.js
+[400] 233 bytes sent (233 KB/s)
+[400] 8920 bytes sent (8920 KB/s)
+[400] socket closed after responded for 1 requests
+Connected clients: 1
+[400] connection accepted
+[400] IP: 127.0.0.1
+Connected clients: 1
+[400] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/GMFTRegistrations-Green.js
+[400] 233 bytes sent (233 KB/s)
+[400] 3668 bytes sent (3668 KB/s)
+[400] socket closed after responded for 1 requests
+Connected clients: 1
+[400] connection accepted
+[400] IP: 127.0.0.1
+Connected clients: 1
+[400] request path: GMFT-TournamentWebSite-Template/assets/images/logo.png
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 2
+[400] 219 bytes sent (219 KB/s)
+[380] request path: GMFT-TournamentWebSite-Template/assets/images/fond.jpg
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 3
+[400] 11418 bytes sent (11418 KB/s)
+[400] socket closed after responded for 1 requests
+Connected clients: 3
+[380] 220 bytes sent (220 KB/s)
+[396] request path: GMFT-TournamentWebSite-Template/assets/bootstrap/js/bootstrap.min.js
+[380] 56429 bytes sent (56429 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 2
+[396] 234 bytes sent (234 KB/s)
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 2
+[380] request path: GMFT-TournamentWebSite-Template/assets/smoothscroll/smooth-scroll.js
+[396] 56009 bytes sent (56009 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 2
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 2
+[380] 234 bytes sent (234 KB/s)
+[396] request path: GMFT-TournamentWebSite-Template/assets/touchswipe/jquery.touch-swipe.min.js
+[380] 25803 bytes sent (25803 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 2
+[396] 234 bytes sent (234 KB/s)
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 2
+[380] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/data/Registrations-Individuals.txt?_=1654361383282
+[396] 20646 bytes sent (20646 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 2
+[380] 219 bytes sent (219 KB/s)
+[380] 4252 bytes sent (4 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 1
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 1
+[380] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/data/Registrations-Teams.txt?_=1654361383283
+[380] 217 bytes sent (217 KB/s)
+[380] 236 bytes sent (236 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 1
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 1
+[380] request path: GMFT-TournamentWebSite-Template/assets/viewportchecker/jquery.viewportchecker.js
+[380] 233 bytes sent (233 KB/s)
+[380] 3969 bytes sent (3969 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 1
+[380] connection accepted
+[380] IP: 127.0.0.1
+Connected clients: 1
+[380] request path: GMFT-TournamentWebSite-Template/assets/parallax/jarallax.min.js
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 2
+[380] 234 bytes sent (234 KB/s)
+[396] request path: GMFT-TournamentWebSite-Template/assets/tether/tether.min.js
+[388] connection accepted
+[388] IP: 127.0.0.1
+Connected clients: 3
+[380] 15705 bytes sent (15705 KB/s)
+[380] socket closed after responded for 1 requests
+Connected clients: 3
+[396] 234 bytes sent (234 KB/s)
+[388] request path: GMFT-TournamentWebSite-Template/assets/dropdown/js/nav-dropdown.js
+[404] connection accepted
+[404] IP: 127.0.0.1
+Connected clients: 3
+[404] request path: GMFT-TournamentWebSite-Template/assets/dropdown/js/navbar-dropdown.js
+[396] 23451 bytes sent (23451 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 3
+[388] 234 bytes sent (234 KB/s)
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 3
+[404] 233 bytes sent (233 KB/s)
+[396] request path: GMFT-TournamentWebSite-Template/assets/theme/js/script.js
+[388] 19147 bytes sent (19147 KB/s)
+[388] socket closed after responded for 1 requests
+Connected clients: 3
+[404] 3740 bytes sent (3740 KB/s)
+[404] socket closed after responded for 1 requests
+Connected clients: 2
+[396] 234 bytes sent (234 KB/s)
+[396] 49679 bytes sent (49679 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 1
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 1
+[396] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/Custom/logo.png
+[396] 219 bytes sent (219 KB/s)
+[396] 12290 bytes sent (12290 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 1
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 1
+[396] request path: GMFT-TournamentWebSite-Template/assets/images/logo.png
+[396] 219 bytes sent (219 KB/s)
+[396] 11418 bytes sent (11418 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 1
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 1
+[172] connection accepted
+[172] IP: 127.0.0.1
+Connected clients: 2
+[396] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/GMFTRegistrations.html
+[396] 218 bytes sent (0 KB/s)
+[396] 3727 bytes sent (0 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 2
+[172] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/Bootstrap-4-4.1.1/css/Cerulean/bootstrap.min.css
+[172] 219 bytes sent (0 KB/s)
+[172] 131291 bytes sent (64 KB/s)
+[172] 184136 bytes sent (89 KB/s)
+[172] socket closed after responded for 1 requests
+Connected clients: 1
+[172] connection accepted
+[172] IP: 127.0.0.1
+Connected clients: 1
+[172] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/DataTables-1.10.20/css/dataTables.bootstrap4.min.css
+[172] 217 bytes sent (217 KB/s)
+[172] 5439 bytes sent (5439 KB/s)
+[172] socket closed after responded for 1 requests
+Connected clients: 1
+[172] connection accepted
+[172] IP: 127.0.0.1
+Connected clients: 1
+[172] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/FixedHeader-3.1.6/css/fixedHeader.bootstrap4.min.css
+[172] 216 bytes sent (216 KB/s)
+[172] 544 bytes sent (544 KB/s)
+[172] socket closed after responded for 1 requests
+Connected clients: 1
+[172] connection accepted
+[172] IP: 127.0.0.1
+Connected clients: 1
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 2
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 3
+[172] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/jQuery-3.3.1/jquery-3.3.1.min.js
+[172] 234 bytes sent (234 KB/s)
+[172] 87161 bytes sent (87161 KB/s)
+[172] socket closed after responded for 1 requests
+Connected clients: 3
+[396] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/Bootstrap-4-4.1.1/js/bootstrap.min.js
+[396] 234 bytes sent (234 KB/s)
+[396] 50965 bytes sent (50965 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 2
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/DataTables-1.10.20/js/jquery.dataTables.min.js
+[340] 234 bytes sent (234 KB/s)
+[340] 84555 bytes sent (84555 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/DataTables-1.10.20/js/dataTables.bootstrap4.min.js
+[340] 233 bytes sent (233 KB/s)
+[340] 3392 bytes sent (3392 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/FixedHeader-3.1.6/js/dataTables.fixedHeader.min.js
+[340] 233 bytes sent (233 KB/s)
+[340] 8920 bytes sent (8920 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/GMFTRegistrations-Green.js
+[340] 233 bytes sent (233 KB/s)
+[340] 3668 bytes sent (3668 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/data/Registrations-Individuals.txt?_=1654361397708
+[340] 219 bytes sent (219 KB/s)
+[340] 4252 bytes sent (4252 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/data/Registrations-Teams.txt?_=1654361397709
+[340] 217 bytes sent (217 KB/s)
+[340] 236 bytes sent (236 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/Custom/logo.png
+[340] 219 bytes sent (219 KB/s)
+[340] 12290 bytes sent (12290 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: media/images/favicon.png
+[340] Http file not found
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 2
+[340] request path: GMFT-TournamentWebSite-Template/index.html
+[340] 218 bytes sent (0 KB/s)
+[340] 5533 bytes sent (0 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 2
+[396] request path: GMFT-TournamentWebSite-Template/assets/web/assets/mobirise-icons2/mobirise2.css
+[396] 217 bytes sent (0 KB/s)
+[396] 8926 bytes sent (4 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 1
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 2
+[396] request path: GMFT-TournamentWebSite-Template/assets/web/assets/mobirise-icons/mobirise-icons.css
+[396] 217 bytes sent (217 KB/s)
+[396] 7830 bytes sent (7830 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 2
+[340] request path: GMFT-TournamentWebSite-Template/assets/bootstrap/css/bootstrap.min.css
+[340] 219 bytes sent (219 KB/s)
+[340] 131291 bytes sent (131291 KB/s)
+[172] connection accepted
+[172] IP: 127.0.0.1
+Connected clients: 2
+[352] connection accepted
+[352] IP: 127.0.0.1
+Connected clients: 3
+[356] connection accepted
+[356] IP: 127.0.0.1
+Connected clients: 4
+[172] request path: GMFT-TournamentWebSite-Template/assets/bootstrap/css/bootstrap-grid.min.css
+[172] 218 bytes sent (218 KB/s)
+[172] 48706 bytes sent (48706 KB/s)
+[172] socket closed after responded for 1 requests
+Connected clients: 4
+[172] connection accepted
+[172] IP: 127.0.0.1
+Connected clients: 4
+[352] request path: GMFT-TournamentWebSite-Template/assets/bootstrap/css/bootstrap-reboot.min.css
+[352] 217 bytes sent (217 KB/s)
+[352] 4053 bytes sent (4053 KB/s)
+[352] socket closed after responded for 1 requests
+Connected clients: 4
+[356] request path: GMFT-TournamentWebSite-Template/assets/animatecss/animate.min.css
+[356] 218 bytes sent (218 KB/s)
+[356] 53007 bytes sent (53007 KB/s)
+[356] socket closed after responded for 1 requests
+Connected clients: 3
+[172] request path: GMFT-TournamentWebSite-Template/assets/tether/tether.min.css
+[172] 216 bytes sent (216 KB/s)
+[172] 453 bytes sent (453 KB/s)
+[172] socket closed after responded for 1 requests
+Connected clients: 2
+[340] 153401 bytes sent (153401 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/dropdown/css/style.css
+[340] 217 bytes sent (217 KB/s)
+[340] 8199 bytes sent (8199 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/theme/css/style.css
+[340] 218 bytes sent (218 KB/s)
+[340] 23571 bytes sent (23571 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[396] connection accepted
+[396] IP: 127.0.0.1
+Connected clients: 2
+[340] request path: GMFT-TournamentWebSite-Template/assets/mobirise/css/mbr-additional.css
+[340] 218 bytes sent (218 KB/s)
+[340] 59310 bytes sent (59310 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 2
+[396] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/GMFTRegistrations.html
+[396] 218 bytes sent (218 KB/s)
+[172] connection accepted
+[172] IP: 127.0.0.1
+Connected clients: 2
+[396] 3727 bytes sent (3727 KB/s)
+[396] socket closed after responded for 1 requests
+Connected clients: 2
+[172] request path: GMFT-TournamentWebSite-Template/assets/popper/popper.min.js
+[172] 234 bytes sent (234 KB/s)
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 2
+[172] 19228 bytes sent (19228 KB/s)
+[172] socket closed after responded for 1 requests
+Connected clients: 2
+[340] request path: GMFT-TournamentWebSite-Template/assets/web/assets/jquery/jquery.min.js
+[340] 234 bytes sent (234 KB/s)
+[340] 96165 bytes sent (96165 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/Bootstrap-4-4.1.1/css/Cerulean/bootstrap.min.css
+[340] 219 bytes sent (219 KB/s)
+[340] 131291 bytes sent (131291 KB/s)
+[340] 184136 bytes sent (184136 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/DataTables-1.10.20/css/dataTables.bootstrap4.min.css
+[340] 217 bytes sent (217 KB/s)
+[340] 5439 bytes sent (5439 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/FixedHeader-3.1.6/css/fixedHeader.bootstrap4.min.css
+[340] 216 bytes sent (216 KB/s)
+[340] 544 bytes sent (544 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/jQuery-3.3.1/jquery-3.3.1.min.js
+[340] 234 bytes sent (234 KB/s)
+[340] 87161 bytes sent (87161 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/Bootstrap-4-4.1.1/js/bootstrap.min.js
+[340] 234 bytes sent (234 KB/s)
+[340] 50965 bytes sent (50965 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/DataTables-1.10.20/js/jquery.dataTables.min.js
+[340] 234 bytes sent (234 KB/s)
+[340] 84555 bytes sent (84555 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/DataTables-1.10.20/js/dataTables.bootstrap4.min.js
+[340] 233 bytes sent (233 KB/s)
+[340] 3392 bytes sent (3392 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/ExternalResources/FixedHeader-3.1.6/js/dataTables.fixedHeader.min.js
+[340] 233 bytes sent (233 KB/s)
+[340] 8920 bytes sent (8920 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/GMFTRegistrations-Green.js
+[340] 233 bytes sent (233 KB/s)
+[340] 3668 bytes sent (3668 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/images/fond.jpg
+[340] 220 bytes sent (220 KB/s)
+[340] 56429 bytes sent (56429 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/images/logo.png
+[340] 219 bytes sent (219 KB/s)
+[340] 11418 bytes sent (11418 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/bootstrap/js/bootstrap.min.js
+[340] 234 bytes sent (234 KB/s)
+[340] 56009 bytes sent (56009 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/data/Registrations-Individuals.txt?_=1654361410800
+[340] 219 bytes sent (219 KB/s)
+[340] 4252 bytes sent (4252 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/data/Registrations-Teams.txt?_=1654361410801
+[340] 217 bytes sent (217 KB/s)
+[340] 236 bytes sent (236 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/smoothscroll/smooth-scroll.js
+[340] 234 bytes sent (234 KB/s)
+[340] 25803 bytes sent (25803 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/touchswipe/jquery.touch-swipe.min.js
+[340] 234 bytes sent (234 KB/s)
+[340] 20646 bytes sent (20646 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/viewportchecker/jquery.viewportchecker.js
+[340] 233 bytes sent (233 KB/s)
+[340] 3969 bytes sent (3969 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/parallax/jarallax.min.js
+[340] 234 bytes sent (234 KB/s)
+[340] 15705 bytes sent (15705 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/tether/tether.min.js
+[340] 234 bytes sent (234 KB/s)
+[340] 23451 bytes sent (23451 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/dropdown/js/nav-dropdown.js
+[340] 234 bytes sent (234 KB/s)
+[340] 19147 bytes sent (19147 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/dropdown/js/navbar-dropdown.js
+[340] 233 bytes sent (233 KB/s)
+[340] 3740 bytes sent (3740 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/assets/theme/js/script.js
+[340] 234 bytes sent (234 KB/s)
+[340] 49679 bytes sent (49679 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[340] connection accepted
+[340] IP: 127.0.0.1
+Connected clients: 1
+[340] request path: GMFT-TournamentWebSite-Template/GMFT-RegistrationsWebPage-Template/Custom/logo.png
+[340] 219 bytes sent (219 KB/s)
+[340] 12290 bytes sent (12290 KB/s)
+[340] socket closed after responded for 1 requests
+Connected clients: 1
+[-1] connection accepted
+Cleaning up...

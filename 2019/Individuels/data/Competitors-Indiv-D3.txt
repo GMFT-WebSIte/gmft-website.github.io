@@ -1,0 +1,10 @@
+﻿{"data": [
+["","Jean-Marie Fouetillou (cae)", "9999", "FRA", "FTC Caen"],
+["","Denis Polsinelli (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Thierry Jalbert (chp)", "9999", "FRA", "Elan SC Champs"],
+["","Chistophe France (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Johnny Ledieu (chp)", "9999", "FRA", "Elan SC Champs"],
+["","Patrice Grangier (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Julien Blanchon (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Roger Trouillard (puy)", "9999", "FRA", "CFT Puylaurens"]
+]}

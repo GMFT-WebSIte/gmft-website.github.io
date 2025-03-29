@@ -1,0 +1,8 @@
+﻿{"data": [
+["01 - Poule 01", "R1", "M01", "Stephane GALICHET ()", "2", "-", "1", "Lea POUPART (com)", " ", "", "", "", "Stéphane POMMIER (cae)"],
+["01 - Poule 01", "R1", "M02", "Sébastien LECERF (mon)", "3", "-", "0", "David SARDI DE LETTO (lil)", " ", "", "", "", "Nicolas LEFÈBVRE (cae)"],
+["01 - Poule 01", "R2", "M01", "David SARDI DE LETTO (lil)", "1", "-", "6", "Stephane GALICHET ()", " ", "", "", "", "Cédric PANDOLFI (sym)"],
+["01 - Poule 01", "R2", "M02", "Lea POUPART (com)", "1", "-", "2", "Sébastien LECERF (mon)", " ", "", "", "", "Mickaël BLANC (sym)"],
+["01 - Poule 01", "R3", "M01", "Stephane GALICHET ()", "1", "-", "0", "Sébastien LECERF (mon)", " ", "", "", "", "Lorenzo LO PRETI (als)"],
+["01 - Poule 01", "R3", "M02", "David SARDI DE LETTO (lil)", "4", "-", "2", "Lea POUPART (com)", " ", "", "", "", "Christophe MONTEIRO (iss)"]
+]}

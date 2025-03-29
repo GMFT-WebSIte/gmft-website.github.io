@@ -1,0 +1,3 @@
+﻿{"data": [
+["FINALE", "Quentin Ausset (chp)", "", "-", "", "Lorenzo LoPetri (sym)", "", "", "-", ""]
+]}

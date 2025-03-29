@@ -1,0 +1,8 @@
+﻿{"data": [
+["01 - Poule 01", "R1", "M01", "Sébastien SORGE (lil)", "0", "-", "0", "Vincent AUZILLEAU (aqu)", " ", "", "", "", "Skander FARZA (com)"],
+["01 - Poule 01", "R1", "M02", "Laurent JAILLET (chp)", "3", "-", "0", "Laurent SALLE (com)", " ", "", "", "", "Lionel ABECASSIS ()"],
+["01 - Poule 01", "R2", "M01", "Laurent SALLE (com)", "0", "-", "3", "Sébastien SORGE (lil)", " ", "", "", "", "Théo MODESTE (iss)"],
+["01 - Poule 01", "R2", "M02", "Vincent AUZILLEAU (aqu)", "0", "-", "1", "Laurent JAILLET (chp)", " ", "", "", "", "Raphaël POMMIER (cae)"],
+["01 - Poule 01", "R3", "M01", "Sébastien SORGE (lil)", "1", "-", "0", "Laurent JAILLET (chp)", " ", "", "", "", "Rémy LOURS (cae)"],
+["01 - Poule 01", "R3", "M02", "Laurent SALLE (com)", "0", "-", "3", "Vincent AUZILLEAU (aqu)", " ", "", "", "", "Rémi SORET (hen)"]
+]}

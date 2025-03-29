@@ -1,0 +1,14 @@
+﻿{"data": [
+["Poule 01", "1", "Jérôme Monchalin (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 01", "2", "Eric Siwczak (can)", "-", "-"],
+["Poule 01", "3", "Laurent Arduise", "9999", "---"],
+["Poule 01", "4", "Enrico Lupo (can)", "9999", "Subbuteo Le Cannet"],
+["Poule 01", "5", "Orlan Martin (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 01", "6", "Théo Fromweiler (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 02", "1", "Tristan Monchalin (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 02", "2", "Jean-Jacques Trichot (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 02", "3", "Jade Guyot (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 02", "4", "Thibaud Gauthier (sym)", "9999", "FTC ST Symphorien sur Coise"],
+["Poule 02", "5", "Liam Lupo (can)", "9999", "Subbuteo Le Cannet"],
+["Poule 02", "6", "Frédéric Bondi (can)", "9999", "Subbuteo Le Cannet"]
+]}

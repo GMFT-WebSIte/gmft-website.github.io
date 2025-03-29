@@ -1,0 +1,8 @@
+﻿{"data": [
+["","Liam Lupo (can)", "9999", "FRA", "Subbuteo Le Cannet"],
+["","Orlan Martin (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Théo Fromweiler (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Jade Guyot (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Tristan Monchalin (sym)", "9999", "FRA", "FTC ST Symphorien sur Coise"],
+["","Domitille Cécillon (bos)", "9999", "FRA", "Boucle de la Seine Subbuteo"]
+]}

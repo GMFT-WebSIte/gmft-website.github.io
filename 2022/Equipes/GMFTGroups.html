@@ -1,0 +1,39 @@
+<!DOCTYPE html><html>
+<head>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Table</title>
+<link rel="shortcut icon" type="image/png" href="/media/images/favicon.png"><link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.datatables.net/rss.xml"></link>
+<link rel="stylesheet" type="text/css" href="ExternalResources/Bootstrap-3.3.7/css/bootstrap.min.css"></link>
+<link rel="stylesheet" type="text/css" href="ExternalResources/datatables.min.css">
+<style type="text/css" class="init">
+	body { background: transparent; }
+	.nav-tabs>li>a {background: #ccc; }
+	.nav>li>a { padding:5px 5px; }
+	.tab-pane {background: transparent; }
+	tr.group, tr.group:hover {background-color: #ddd !important; }
+</style>
+<script type="text/javascript" language="javascript" src="ExternalResources/jQuery-1.12.4/jquery-1.12.4.min.js"></script>
+<script type="text/javascript" language="javascript" src="ExternalResources/Bootstrap-3.3.7/js/bootstrap.min.js"></script>
+<script type="text/javascript" language="javascript" src="ExternalResources/datatables.min.js"></script>
+<script type="text/javascript" language="javascript" src="GMFTGroups.js"></script>
+</head>
+<body>
+<div class="container-fluid"><div class="row"><ul class="nav nav-tabs" role="tablist">
+<li class="active"><a href="#tab-TableOfData-Eq_Groupes" data-toggle="tab">Eq_Groupes</a></li>
+<li><a href="#tab-TableOfData-Eq_Clt_1_4" data-toggle="tab">Eq_Clt_1_4</a></li>
+</ul>
+<div class="tab-content">
+<div id="tab-TableOfData-Eq_Groupes" class="tab-pane active">
+<table id="Eq_Groupes" class="display compact dataTable dataTableTeams" cellspacing="0" width="100%" data-ajax="data/Groups-Eq_Groupes.txt">
+<thead><tr><th>Poule</th><th>Tirage</th><th>Nom</th></tr></thead>
+<tfoot><tr><th>Poule</th><th>Tirage</th><th>Nom</th></tr></tfoot>
+</table>
+</div>
+<div id="tab-TableOfData-Eq_Clt_1_4" class="tab-pane">
+<table id="Eq_Clt_1_4" class="display compact dataTable dataTableTeams" cellspacing="0" width="100%" data-ajax="data/Groups-Eq_Clt_1_4.txt">
+<thead><tr><th>Poule</th><th>Tirage</th><th>Nom</th></tr></thead>
+<tfoot><tr><th>Poule</th><th>Tirage</th><th>Nom</th></tr></tfoot>
+</table>
+</div>
+</div></div></div></body></html>
